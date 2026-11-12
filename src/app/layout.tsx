@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 
+import { HashScroll } from "@/components/layout/HashScroll";
 import { PageSections } from "@/components/layout/PageSection";
 import { SiteHeader } from "@/components/layout/SiteHeader";
 import { footerSections } from "@/content/pages";
@@ -34,6 +35,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
             <PageSections sections={footerSections} />
           </footer>
         </div>
+        <HashScroll />
       </body>
     </html>
   );

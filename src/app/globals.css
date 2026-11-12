@@ -109,8 +109,7 @@
 /* ------------------------------------------------------------ base */
 
 html {
-  /* Anchor links scroll smoothly and stop below the fixed header, as on the old site */
-  scroll-behavior: smooth;
+  /* Anchor links stop below the fixed header, as on the old site */
   scroll-padding-top: var(--header-height);
   font-size: 16px;
   -webkit-text-size-adjust: 100%;
@@ -124,6 +123,12 @@ body {
   font-weight: 400;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+/* Smooth scrolling is switched on after load (HashScroll), as Squarespace did, so the
+   first jump to an #anchor is instant and can be corrected once the fonts are in */
+html.smooth-scroll {
+  scroll-behavior: smooth;
 }
 
 html.header--menu-open,

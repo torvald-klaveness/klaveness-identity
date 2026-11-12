@@ -2,17 +2,21 @@
 
 import { useEffect } from "react";
 
+const nextFrame = () => new Promise<void>((resolve) => requestAnimationFrame(() => resolve()));
+
 /**
+ * Anchor scrolling, as the old Squarespace site did it.
+ *
  * When a page opens at an #anchor (a menu link from another page, a link opened in a
  * new tab, a shared URL), the browser jumps there before the web fonts have loaded.
- * Once they swap in, the text above gets shorter and the jump ends up too far down.
- * The old Squarespace site scrolled again after loading; this does the same, unless
- * the visitor has already started scrolling.
+ * Once they swap in, the text above changes height and the jump is off. So: wait for
+ * the fonts and the page to load, jump to the anchor again (unless the visitor has
+ * already started scrolling), and only then switch on smooth scrolling for in-page links.
  */
 export function HashScroll() {
   useEffect(() => {
+    const root = document.documentElement;
     const id = decodeURIComponent(window.location.hash.slice(1));
-    if (!id) return;
 
     let cancelled = false;
     const cancel = () => {
@@ -26,10 +30,15 @@ export function HashScroll() {
         ? Promise.resolve()
         : new Promise<void>((resolve) => window.addEventListener("load", () => resolve(), { once: true }));
 
-    Promise.all([document.fonts.ready, loaded]).then(() => {
-      if (cancelled) return;
-      document.getElementById(id)?.scrollIntoView({ block: "start", behavior: "instant" });
-    });
+    Promise.all([document.fonts.ready, loaded])
+      .then(nextFrame)
+      .then(nextFrame)
+      .then(() => {
+        if (id && !cancelled) {
+          document.getElementById(id)?.scrollIntoView({ block: "start", behavior: "instant" });
+        }
+        root.classList.add("smooth-scroll");
+      });
 
     return () => {
       cancelled = true;

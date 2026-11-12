@@ -1,0 +1,1614 @@
+{
+  "title": "Torvald Klaveness — Klaveness Brands",
+  "noindex": true,
+  "sections": [
+    {
+      "id": "5fad4df11c7089551a985607",
+      "theme": "white",
+      "height": "small",
+      "contentWidth": "wide",
+      "vAlign": "top",
+      "hAlign": "left",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 12,
+                "items": [
+                  {
+                    "type": "anchor",
+                    "id": "yui_3_17_2_1_1605271489640_24885",
+                    "anchor": "kla-logo"
+                  },
+                  {
+                    "type": "spacer",
+                    "id": "yui_3_17_2_1_1606828509132_8007",
+                    "size": 1
+                  },
+                  {
+                    "type": "text",
+                    "id": "f370c67c79d5ba04ac02",
+                    "html": "<h1 style=\"white-space:pre-wrap;\">Group &amp; Klaveness Dry Bulk<br>Brand Guide</h1><p style=\"white-space:pre-wrap;\">Last updated December 2022</p>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fbe350ee18c5c478ec684c6",
+      "theme": "white",
+      "height": "small",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "left",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 12,
+                "items": [
+                  {
+                    "type": "anchor",
+                    "id": "yui_3_17_2_1_1605272560787_23254",
+                    "anchor": "kla-logo"
+                  },
+                  {
+                    "type": "spacer",
+                    "id": "yui_3_17_2_1_1606480523519_6575",
+                    "size": 1
+                  },
+                  {
+                    "row": {
+                      "cols": [
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "text",
+                              "id": "c2402e04f3ff2d9d3d54",
+                              "html": "<h2 style=\"white-space:pre-wrap;\">Group Logo</h2><p style=\"white-space:pre-wrap;\">The blue logo is mainly used on white backgrounds. When applied to darker surfaces you should use the white version.  If you cannot use the main logo due to lack of spacing, use either the portrait or landscape versions, whichever is most suitable. The space between the logo and other elements must be consistent. The minimum amount of clearance around the logo must be equal to the size of the letter “a” in the logo.</p>"
+                            },
+                            {
+                              "type": "button",
+                              "id": "aa09e581e798c4cbeb77",
+                              "text": "Download",
+                              "href": "/s/tk-logo-2xhg.zip",
+                              "size": "medium",
+                              "variant": "primary",
+                              "align": "left"
+                            }
+                          ]
+                        },
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "yui_3_17_2_1_1608750982385_8309",
+                              "src": "/images/kla/logo-klaveness-variations.gif",
+                              "alt": "logo-klaveness-variations.gif",
+                              "width": 2500,
+                              "height": 997,
+                              "fluid": false,
+                              "ratio": 39.87999725341797,
+                              "maxWidth": 2500
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fbe81774e98326c02e564db",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "left",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 6,
+                "items": [
+                  {
+                    "type": "text",
+                    "id": "f0f4164aae6c66ce6601",
+                    "html": "<h3 style=\"white-space:pre-wrap;\">Klaveness Dry Bulk Logo</h3><p style=\"white-space:pre-wrap;\">The blue logo is mainly used on white backgrounds. When applied to darker surfaces you should use the white version.  If you cannot use the main logo due to lack of spacing, use either the portrait or landscape versions, whichever is most suitable. The space between the logo and other elements must be consistent. The minimum amount of clearance around the logo must be equal to the size of the letter “a” in the logo.</p>"
+                  },
+                  {
+                    "type": "button",
+                    "id": "74cfab25cdc15318d6cc",
+                    "text": "Download",
+                    "href": "/s/Klaveness_Dry_Bulk_Logo_Package.zip",
+                    "newTab": true,
+                    "size": "medium",
+                    "variant": "primary",
+                    "align": "left"
+                  }
+                ]
+              },
+              {
+                "span": 6,
+                "items": [
+                  {
+                    "type": "image",
+                    "id": "0a35fa2616119e2d81c5",
+                    "src": "/images/kla/logo-dry-bulk-variations.gif",
+                    "alt": "",
+                    "width": 6785,
+                    "height": 2705,
+                    "fluid": false,
+                    "ratio": 40.54487228393555,
+                    "maxWidth": 6785
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "69ae9f76608404e1ab25e88d",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "fullBleed": true,
+      "layout": {
+        "kind": "fluid",
+        "mobileRows": 21,
+        "desktopRows": 9,
+        "rowScale": 0.0215,
+        "blocks": [
+          {
+            "desktop": [
+              1,
+              2,
+              8,
+              14
+            ],
+            "mobile": [
+              1,
+              2,
+              14,
+              10
+            ],
+            "z": 0,
+            "justify": "flex-start",
+            "align": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "69ae9f764de422713f2e9d5f",
+              "html": "<h3 style=\"white-space:pre-wrap;\">Baumarine by Klaveness logo</h3><p style=\"white-space:pre-wrap;\">The blue logo is mainly used on white backgrounds. When applied to darker surfaces you should use the white version.  If you cannot use the main logo due to lack of spacing, use either the portrait or landscape versions, whichever is most suitable. The space between the logo and other elements must be consistent. The minimum amount of clearance around the logo must be equal to the size of the letter “a” in the logo.</p>"
+            }
+          },
+          {
+            "desktop": [
+              8,
+              2,
+              10,
+              4
+            ],
+            "mobile": [
+              14,
+              2,
+              16,
+              5
+            ],
+            "z": 1,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "button",
+              "id": "69ae9f76c899830e18b84d7f",
+              "text": "Download",
+              "href": "/s/Baumarine-logopack.zip",
+              "newTab": true,
+              "size": "medium",
+              "variant": "primary",
+              "align": "center"
+            }
+          },
+          {
+            "desktop": [
+              1,
+              16,
+              8,
+              25
+            ],
+            "mobile": [
+              16,
+              2,
+              22,
+              10
+            ],
+            "z": 2,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "yui_3_17_2_1_1773051619857_22370",
+              "src": "/images/kla/baumarine-main-logo-black.png",
+              "alt": "",
+              "width": 3403,
+              "height": 731,
+              "fluid": true,
+              "fit": "fit"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fae6673162257496b4945c6",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "left",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 12,
+                "items": [
+                  {
+                    "type": "anchor",
+                    "id": "yui_3_17_2_1_1605272583363_24030",
+                    "anchor": "kla-typography"
+                  },
+                  {
+                    "type": "spacer",
+                    "id": "yui_3_17_2_1_1606480523519_15344",
+                    "size": 1
+                  },
+                  {
+                    "row": {
+                      "cols": [
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "text",
+                              "id": "60b26d7530632f0c4293",
+                              "html": "<h3 style=\"white-space:pre-wrap;\">Font</h3><p style=\"white-space:pre-wrap;\">The primary font is Source Sans Pro designed by Paul D. Hunt and can be downloaded for free. When Source Sans Pro is not an option, Arial can be used. Visit this site for conditions of use, and download the Source Sans Pro font package.</p>"
+                            },
+                            {
+                              "type": "button",
+                              "id": "yui_3_17_2_1_1608748290255_15990",
+                              "text": "Download",
+                              "href": "/s/Source_Sans_3.zip",
+                              "newTab": true,
+                              "size": "medium",
+                              "variant": "primary",
+                              "align": "left"
+                            }
+                          ]
+                        },
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "yui_3_17_2_1_1607378751347_7065",
+                              "src": "/images/kla/font-klaveness-2.gif",
+                              "alt": "font-klaveness-2.gif",
+                              "width": 1524,
+                              "height": 389,
+                              "fluid": false,
+                              "ratio": 25.524934768676758,
+                              "maxWidth": 1524
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fc0e6c89ee0f32b8773a428",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "left",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 12,
+                "items": [
+                  {
+                    "row": {
+                      "cols": [
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "text",
+                              "id": "4f3240a527e62c407cc4",
+                              "html": "<h3 style=\"white-space:pre-wrap;\">Wordmark</h3><p style=\"white-space:pre-wrap;\">Edit Serif Pro is the font used and reserved for our logo only.</p>"
+                            }
+                          ]
+                        },
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "30d1f478026bade2df37",
+                              "src": "/images/kla/wordmark-klaveness-kla-kcc-kdb.gif",
+                              "alt": "",
+                              "width": 1443,
+                              "height": 302,
+                              "fluid": false,
+                              "ratio": 20.928621292114258,
+                              "maxWidth": 1443
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fc114da145a8629dcd75108",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "left",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 12,
+                "items": [
+                  {
+                    "type": "anchor",
+                    "id": "484041315aaf04a860f8",
+                    "anchor": "kla-colours"
+                  },
+                  {
+                    "type": "spacer",
+                    "id": "84fe4957ba9238dde110",
+                    "size": 1
+                  },
+                  {
+                    "row": {
+                      "cols": [
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "text",
+                              "id": "5bab77a3dd232fb1c9c7",
+                              "html": "<h3 style=\"white-space:pre-wrap;\">Colors</h3><p style=\"white-space:pre-wrap;\">The color palette consists of 12 colours. Orange is the accent color of Torvald Klaveness and should not be used by any other Klaveness company.</p>"
+                            }
+                          ]
+                        },
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "spacer",
+                              "id": "53918f919315ab6a3728",
+                              "size": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "spacer",
+                    "id": "6cbd7e1d540aefbc696b",
+                    "size": 1
+                  },
+                  {
+                    "row": {
+                      "cols": [
+                        {
+                          "span": 2,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "ad2362bac30416b9d46e",
+                              "src": "/images/kla/kla-blue.png",
+                              "alt": "Blue Screen: #001446 Screen: RGB 0/20/70 Print (CMYK): C100 M90 Y40 K50  Pantone: 655 C Paint: NCS S 3560-R80B",
+                              "width": 1500,
+                              "height": 1500,
+                              "caption": "<p style=\"white-space:pre-wrap;\"><strong>Blue</strong><br>Screen: #001446<br>Screen: RGB 0/20/70<br>Print (CMYK): C100 M90 Y40 K50 <br>Pantone: 655 C<br>Paint: NCS S 3560-R80B</p>",
+                              "fluid": false,
+                              "ratio": 100,
+                              "maxWidth": 1500
+                            }
+                          ]
+                        },
+                        {
+                          "span": 10,
+                          "items": [
+                            {
+                              "row": {
+                                "cols": [
+                                  {
+                                    "span": 2,
+                                    "items": [
+                                      {
+                                        "type": "image",
+                                        "id": "yui_3_17_2_1_1610024178020_22105",
+                                        "src": "/images/kla/tk-orange.png",
+                                        "alt": "Orange  Screen: #FF5B29 Screen: RGB 255/91/41 Print (CMYK): C0 M71 Y90 K0  Pantone:1505 C Paint: NCS S 0585-Y50R",
+                                        "width": 720,
+                                        "height": 720,
+                                        "caption": "<p style=\"white-space:pre-wrap;\"><strong>Orange </strong><br>Screen: #FF5B29<br>Screen: RGB 255/91/41<br>Print (CMYK): C0 M71 Y90 K0 <br>Pantone:1505 C<br>Paint: NCS S 0585-Y50R</p>",
+                                        "fluid": false,
+                                        "ratio": 100,
+                                        "maxWidth": 720
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "span": 2,
+                                    "items": [
+                                      {
+                                        "type": "image",
+                                        "id": "dd7bb181de6b91c32ba8",
+                                        "src": "/images/kla/kla-667290.png",
+                                        "alt": "Blue 50 % Screen: #667290 Screen: RGB 102/114/144 Print (CMYK): C65 M51 Y26 K9  Pantone: 285 EC Paint: NCS S 3050-R80B",
+                                        "width": 1500,
+                                        "height": 1500,
+                                        "caption": "<p style=\"white-space:pre-wrap;\"><strong>Blue 50 %</strong><br>Screen: #667290<br>Screen: RGB 102/114/144<br>Print (CMYK): C65 M51 Y26 K9 <br>Pantone: 285 EC<br>Paint: NCS S 3050-R80B</p>",
+                                        "fluid": false,
+                                        "ratio": 100,
+                                        "maxWidth": 1500
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "span": 2,
+                                    "items": [
+                                      {
+                                        "type": "image",
+                                        "id": "c14c7c3c31d9019199c8",
+                                        "src": "/images/kla/kla-3050a2.png",
+                                        "alt": "Dark Blue Screen: #3050A2 Screen: RGB 48/80/162 Print (CMYK): C90 M80 Y0 K0 Pantone: 286 C Paint: NCS S 3560-R90B",
+                                        "width": 2500,
+                                        "height": 2500,
+                                        "caption": "<p style=\"white-space:pre-wrap;\"><strong>Dark Blue</strong><br>Screen: #3050A2<br>Screen: RGB 48/80/162<br>Print (CMYK): C90 M80 Y0 K0<br>Pantone: 286 C<br>Paint: NCS S 3560-R90B</p>",
+                                        "fluid": false,
+                                        "ratio": 100,
+                                        "maxWidth": 2500
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "span": 2,
+                                    "items": [
+                                      {
+                                        "type": "image",
+                                        "id": "9e6e4d5b8c98bcc80f8b",
+                                        "src": "/images/kla/kla-426ddb.png",
+                                        "alt": "Bright Blue Screen: #426DDB Screen: RGB 66/109/219 Print (CMYK): C77 M60 Y0 K0  Pantone: 285 C Paint: NCS S 2065-R90B",
+                                        "width": 1000,
+                                        "height": 1000,
+                                        "caption": "<p style=\"white-space:pre-wrap;\"><strong>Bright Blue</strong><br>Screen: #426DDB<br>Screen: RGB 66/109/219<br>Print (CMYK): C77 M60 Y0 K0 <br>Pantone: 285 C<br>Paint: NCS S 2065-R90B</p>",
+                                        "fluid": false,
+                                        "ratio": 100,
+                                        "maxWidth": 1000
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "span": 2,
+                                    "items": [
+                                      {
+                                        "type": "image",
+                                        "id": "5788d3a3e1248609bad1",
+                                        "src": "/images/kla/kla-849cdb.png",
+                                        "alt": "Light Blue Screen: #849CDB Screen: RGB 132/156/219 Print (CMYK): C50 M35 Y0 K0  Pantone: 284 C Paint: NCS S 1550-R80B",
+                                        "width": 1000,
+                                        "height": 1000,
+                                        "caption": "<p style=\"white-space:pre-wrap;\"><strong>Light Blue</strong><br>Screen: #849CDB<br>Screen: RGB 132/156/219<br>Print (CMYK): C50 M35 Y0 K0 <br>Pantone: 284 C<br>Paint: NCS S 1550-R80B</p>",
+                                        "fluid": false,
+                                        "ratio": 100,
+                                        "maxWidth": 1000
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "spacer",
+                    "id": "yui_3_17_2_1_1607443596725_31502",
+                    "size": 1
+                  },
+                  {
+                    "row": {
+                      "cols": [
+                        {
+                          "span": 2,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "2146a62afb1c483c62b0",
+                              "src": "/images/kla/kla-a49fa9.png",
+                              "alt": "Grey Screen: #A49FA9 Screen: RGB 165/160/170 Print (CMYK): C38 M34 Y24 K06  Pantone: 436 C Paint: NCS S 3502-R",
+                              "width": 1000,
+                              "height": 1000,
+                              "caption": "<p style=\"white-space:pre-wrap;\"><strong>Grey</strong><br>Screen: #A49FA9<br>Screen: RGB 165/160/170<br>Print (CMYK): C38 M34 Y24 K06 <br>Pantone: 436 C<br>Paint: NCS S 3502-R</p>",
+                              "fluid": false,
+                              "ratio": 100,
+                              "maxWidth": 1000
+                            }
+                          ]
+                        },
+                        {
+                          "span": 2,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "yui_3_17_2_1_1609961137947_38278",
+                              "src": "/images/kla/kla-c7c2c7.png",
+                              "alt": "Grey 50 % Screen: #C7C2C7 Screen: RGB 200/195/200 Print (CMYK): C25 M22 Y17 K01  Pantone: 435 C Paint: NCS S 2502-R",
+                              "width": 1000,
+                              "height": 1000,
+                              "caption": "<p style=\"white-space:pre-wrap;\"><strong>Grey 50 %</strong><br>Screen: #C7C2C7<br>Screen: RGB 200/195/200<br>Print (CMYK): C25 M22 Y17 K01 <br>Pantone: 435 C<br>Paint: NCS S 2502-R</p>",
+                              "fluid": false,
+                              "ratio": 100,
+                              "maxWidth": 1000
+                            }
+                          ]
+                        },
+                        {
+                          "span": 2,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "yui_3_17_2_1_1609961137947_33053",
+                              "src": "/images/kla/kla-efefef.png",
+                              "alt": "Grey 30 % Screen: #EFEFEF Screen: RGB 240/240/240 Print (CMYK): C07 M05 Y06 K00  Pantone: 434 C Paint: NCS S 1002-R",
+                              "width": 1000,
+                              "height": 1000,
+                              "caption": "<p style=\"white-space:pre-wrap;\"><strong>Grey 30 %<br></strong>Screen: #EFEFEF<br>Screen: RGB 240/240/240<br>Print (CMYK): C07 M05 Y06 K00 <br>Pantone: 434 C<br>Paint: NCS S 1002-R</p>",
+                              "fluid": false,
+                              "ratio": 100,
+                              "maxWidth": 1000
+                            }
+                          ]
+                        },
+                        {
+                          "span": 2,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "1d010809e9098c255eb6",
+                              "src": "/images/kla/kla-silver.png",
+                              "alt": "Silver Screen: #BDC3C5 Screen: RGB 189/195/197 Print (CMYK): C0 M0 Y0 K30  Pantone: 877 C Paint: NCS S 2502-B",
+                              "width": 1500,
+                              "height": 1500,
+                              "caption": "<p style=\"white-space:pre-wrap;\"><strong>Silver</strong><br>Screen: #BDC3C5<br>Screen: RGB 189/195/197<br>Print (CMYK): C0 M0 Y0 K30 <br>Pantone: 877 C<br>Paint: NCS S 2502-B</p>",
+                              "fluid": false,
+                              "ratio": 100,
+                              "maxWidth": 1500
+                            }
+                          ]
+                        },
+                        {
+                          "span": 4,
+                          "items": [
+                            {
+                              "row": {
+                                "cols": [
+                                  {
+                                    "span": 2,
+                                    "items": [
+                                      {
+                                        "type": "image",
+                                        "id": "1306ca5bc8ee061c5205",
+                                        "src": "/images/kla/kla-white.png",
+                                        "alt": "White Screen: #FFFFFF Screen RGB: 255/255/255 CMYK: C0 M0 Y0 K0  Paint: NCS S 0300-N",
+                                        "width": 1500,
+                                        "height": 1500,
+                                        "caption": "<p style=\"white-space:pre-wrap;\"><strong>White</strong><br>Screen: #FFFFFF<br>Screen RGB: 255/255/255<br>CMYK: C0 M0 Y0 K0 <br>Paint: NCS S 0300-N</p>",
+                                        "fluid": false,
+                                        "ratio": 100,
+                                        "maxWidth": 1500
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "span": 2,
+                                    "items": [
+                                      {
+                                        "type": "image",
+                                        "id": "yui_3_17_2_1_1610024368603_45811",
+                                        "src": "/images/kla/tk-black.png",
+                                        "alt": "Black Screen: #000000 Screen: RGB 0/0/0 Print (CMYK): C0 M0 Y0 K100 Pantone: Black C Paint:  NCS S 9000-N",
+                                        "width": 1126,
+                                        "height": 1125,
+                                        "caption": "<p style=\"white-space:pre-wrap;\"><strong>Black<br></strong>Screen: #000000<br>Screen: RGB 0/0/0<br>Print (CMYK): C0 M0 Y0 K100<br>Pantone: Black C<br>Paint:  NCS S 9000-N</p>",
+                                        "fluid": false,
+                                        "ratio": 99.91118621826172,
+                                        "maxWidth": 1126
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fc112f2bc819f1cf4fdf599",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 6,
+                "items": [
+                  {
+                    "type": "text",
+                    "id": "5fc112f2145a8629dcd6faf8",
+                    "html": "<h3 style=\"white-space:pre-wrap;\">Accent color </h3><p style=\"white-space:pre-wrap;\">Orange is the accent color of Torvald Klaveness and is used for emphasis in the color scheme. It is a bright orange that should be used sparingly, to emphasize, contrast or create rhythm.</p><p style=\"white-space:pre-wrap;\"><strong>Orange </strong><br>Screen: #FF5B29<br>Screen: RGB 255/91/41<br>Print (CMYK): C0 M71 Y90 K0 <br>Pantone:1505 C<br>Paint: NCS S 0585-Y50R</p>"
+                  }
+                ]
+              },
+              {
+                "span": 6,
+                "items": [
+                  {
+                    "type": "image",
+                    "id": "yui_3_17_2_1_1606480523519_97809",
+                    "src": "/images/kla/kla-orange-accent.png",
+                    "alt": "kla-orange-accent.png",
+                    "width": 1000,
+                    "height": 1000,
+                    "fluid": false,
+                    "ratio": 100,
+                    "maxWidth": 1000
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fc1142b9d79364840b37f84",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 6,
+                "items": [
+                  {
+                    "type": "text",
+                    "id": "90ad42e3017f3ee4fe3a",
+                    "html": "<h3 style=\"white-space:pre-wrap;\">Color use </h3><p style=\"white-space:pre-wrap;\">The following color combinations are allowed when working with multiple colors. Consider the color proportions when using the various colors as displayed here.</p><p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p>"
+                  }
+                ]
+              },
+              {
+                "span": 6,
+                "items": [
+                  {
+                    "type": "image",
+                    "id": "yui_3_17_2_1_1607379206800_25050",
+                    "src": "/images/kla/kla-colours.png",
+                    "alt": "kla-colours.png",
+                    "width": 1001,
+                    "height": 1523,
+                    "fluid": false,
+                    "ratio": 152.14785766601562,
+                    "maxWidth": 1001
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fceaa1fe0c378597cf75356",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 6,
+                "items": [
+                  {
+                    "type": "text",
+                    "id": "a773c11393e707ae67a3",
+                    "html": "<h3 style=\"white-space:pre-wrap;\">Principles of application</h3><p style=\"white-space:pre-wrap;\">Here is an example of how the brand can be applied when printing physical objects such as a notebook. </p><p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p>"
+                  }
+                ]
+              },
+              {
+                "span": 6,
+                "items": [
+                  {
+                    "type": "image",
+                    "id": "79cbb4de00a5a66b90c2",
+                    "src": "/images/kla/colours-example-kla.jpg",
+                    "alt": "colours-example-kla.jpg",
+                    "width": 1920,
+                    "height": 1080,
+                    "fluid": false,
+                    "ratio": 56.25,
+                    "maxWidth": 1920
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fae66d8f8f3f14190894bd6",
+      "theme": "white",
+      "height": "small",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "left",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 12,
+                "items": [
+                  {
+                    "type": "anchor",
+                    "id": "yui_3_17_2_1_1605272583363_31642",
+                    "anchor": "kla-brand-elements"
+                  },
+                  {
+                    "type": "spacer",
+                    "id": "yui_3_17_2_1_1606480523519_24636",
+                    "size": 1
+                  },
+                  {
+                    "row": {
+                      "cols": [
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "text",
+                              "id": "d51c1424462e38f5a819",
+                              "html": "<h3 style=\"white-space:pre-wrap;\">Templates</h3><p style=\"white-space:pre-wrap;\">In this section you will various templates, scroll down to find:</p><ul data-rte-list=\"default\"><li><p style=\"white-space:pre-wrap;\">PowerPoint template</p></li><li><p style=\"white-space:pre-wrap;\">Power BI template</p></li><li><p style=\"white-space:pre-wrap;\">Memo template</p></li><li><p style=\"white-space:pre-wrap;\">Letterheads</p></li><li><p style=\"white-space:pre-wrap;\">Email signature</p></li><li><p style=\"white-space:pre-wrap;\">Business cards</p><p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p></li></ul><p style=\"white-space:pre-wrap;\">  </p>"
+                            }
+                          ]
+                        },
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "spacer",
+                              "id": "yui_3_17_2_1_1606829571014_10491",
+                              "size": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fc63ac0f81c9a2a0c779b55",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "left",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 12,
+                "items": [
+                  {
+                    "type": "anchor",
+                    "id": "yui_3_17_2_1_1611653649141_40982",
+                    "anchor": "kla-ppt-template"
+                  },
+                  {
+                    "type": "spacer",
+                    "id": "yui_3_17_2_1_1611653649141_50783",
+                    "size": 1
+                  },
+                  {
+                    "row": {
+                      "cols": [
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "text",
+                              "id": "3cc5144808f4c2f005ef",
+                              "html": "<h4 style=\"white-space:pre-wrap;\">PowerPoint template</h4><p style=\"white-space:pre-wrap;\">The PowerPoint template is available through the template library in PowerPoint and can also be downloaded here. Note: The template includes an “Assets” section with logos and icons for easy use. If you don’t need them, just delete those slides when you finish your deck.</p>"
+                            },
+                            {
+                              "type": "button",
+                              "id": "ca1b0dcc4d226d12f539",
+                              "text": "Download Group Template",
+                              "href": "/s/Torvald_Klaveness2025.potx",
+                              "newTab": true,
+                              "size": "medium",
+                              "variant": "primary",
+                              "align": "left"
+                            },
+                            {
+                              "type": "button",
+                              "id": "5d73a3ebe86caac7e7ee",
+                              "text": "Download KDB Template",
+                              "href": "/s/Klaveness_Dry_Bulk_2025.potx",
+                              "newTab": true,
+                              "size": "medium",
+                              "variant": "primary",
+                              "align": "left"
+                            },
+                            {
+                              "type": "button",
+                              "id": "yui_3_17_2_1_1783588235601_7643",
+                              "text": "Download Baumarine Template",
+                              "href": "/s/Baumarine-by-Klaveness-Template.pptx",
+                              "newTab": true,
+                              "size": "medium",
+                              "variant": "primary",
+                              "align": "left"
+                            }
+                          ]
+                        },
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "131d70262b8eda93f49f",
+                              "src": "/images/kla/thumbnail-tk-ppt.jpg",
+                              "alt": "thumbnail-tk-ppt.jpg",
+                              "width": 2500,
+                              "height": 1500,
+                              "fluid": false,
+                              "ratio": 60.000003814697266,
+                              "maxWidth": 2500
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fd097723bcf75077a85e44f",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "left",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 12,
+                "items": [
+                  {
+                    "row": {
+                      "cols": [
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "text",
+                              "id": "714317ffea675bb5bf78",
+                              "html": "<h4 style=\"white-space:pre-wrap;\">Power BI template</h4><p style=\"white-space:pre-wrap;\">In order to add the Torvald Klaveness theme to your Power BI dashboard, you must download the file for the theme and apply like described <a href=\"https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-report-themes\" target=\"_blank\">here. </a></p>"
+                            },
+                            {
+                              "type": "button",
+                              "id": "b96df5a5dea04da917e1",
+                              "text": "Download",
+                              "href": "/s/Torvald-Klaveness-Power-BI-theme.json",
+                              "size": "medium",
+                              "variant": "primary",
+                              "align": "left"
+                            }
+                          ]
+                        },
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "a715a3088fdeba7de315",
+                              "src": "/images/kla/thumbnail-tk-power-bi.jpg",
+                              "alt": "thumbnail-tk-power-bi.jpg",
+                              "width": 2500,
+                              "height": 1500,
+                              "fluid": false,
+                              "ratio": 60.000003814697266,
+                              "maxWidth": 2500
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "602fa189ad27b648b76eefc3",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "left",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 12,
+                "items": [
+                  {
+                    "row": {
+                      "cols": [
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "text",
+                              "id": "334e08b0856393c6e385",
+                              "html": "<h4 style=\"white-space:pre-wrap;\">Memo template</h4><p style=\"white-space:pre-wrap;\">Compose a memo with this template. It can also be found in the template library in Word. </p>"
+                            },
+                            {
+                              "type": "button",
+                              "id": "39b83da9bd9b08566fc6",
+                              "text": "Download",
+                              "href": "/s/tk-memo-template.dotx",
+                              "size": "medium",
+                              "variant": "primary",
+                              "align": "left"
+                            }
+                          ]
+                        },
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "b8fd157032246be6a202",
+                              "src": "/images/kla/thumbnail-tk-memo.jpg",
+                              "alt": "thumbnail-tk-memo.jpg",
+                              "width": 2500,
+                              "height": 1667,
+                              "fluid": false,
+                              "ratio": 66.68000030517578,
+                              "maxWidth": 2500
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fc63db74f98375720b3465a",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "left",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 12,
+                "items": [
+                  {
+                    "type": "text",
+                    "id": "4d6958cb75be9c918c91",
+                    "html": "<h4 style=\"white-space:pre-wrap;\">Letterheads and envelopes</h4>"
+                  },
+                  {
+                    "row": {
+                      "cols": [
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "text",
+                              "id": "fac679fd09e189743eaa",
+                              "html": "<p style=\"white-space:pre-wrap;\">Letterheads and envelopes should display information such as address and contact information of the relevant business unit or office. Letterheads should display information in the top right corner and envelopes should display information in the top left. This applies to all standard shapes and sizes in both envelopes and letter heads. You may download letterheads here and request envelope design by sending an email to <a href=\"mailto:lkg@klaveness.com\">h</a>zk@klaveness.com</p>"
+                            },
+                            {
+                              "type": "button",
+                              "id": "c76bc18337f2a4b4629e",
+                              "text": "Download",
+                              "href": "/s/tk-letterheads-75aw.zip",
+                              "newTab": true,
+                              "size": "medium",
+                              "variant": "primary",
+                              "align": "left"
+                            }
+                          ]
+                        },
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "8bf799d5cd15aa631c88",
+                              "src": "/images/kla/letterhead-klaveness.png",
+                              "alt": "letterhead-klaveness.png",
+                              "width": 2500,
+                              "height": 1667,
+                              "fluid": false,
+                              "ratio": 66.68000030517578,
+                              "maxWidth": 2500
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fc63bd0fa04221c71f42404",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "left",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 12,
+                "items": [
+                  {
+                    "row": {
+                      "cols": [
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "text",
+                              "id": "19c3fb3baf482c840bbe",
+                              "html": "<h4 style=\"white-space:pre-wrap;\">Email signature</h4><p style=\"white-space:pre-wrap;\">There are two signature versions available for download, a standard signature and employees are to use when communicating on behalf of another Klaveness company. If you are employeed in Klaveness AS for example, and communicate on behalf of Klaveness Combination Carriers ASA, you must always use the “On behalf of <em>Company” </em>signature in your correspondence. </p><p style=\"white-space:pre-wrap;\"><a href=\"https://support.office.com/en-ie/article/create-and-add-a-signature-to-messages-8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2\" target=\"_blank\">View guide on how to update your email signature</a></p>"
+                            },
+                            {
+                              "type": "button",
+                              "id": "yui_3_17_2_1_1608748615113_44135",
+                              "text": "Download",
+                              "href": "/s/tk-email-signatures-xy5d.zip",
+                              "size": "medium",
+                              "variant": "primary",
+                              "align": "left"
+                            },
+                            {
+                              "type": "text",
+                              "id": "yui_3_17_2_1_1608748615113_44202",
+                              "html": "<p style=\"white-space:pre-wrap;\"><br></p>"
+                            }
+                          ]
+                        },
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "679962f27791eda6df93",
+                              "src": "/images/kla/digital-signature-standard-example.png",
+                              "alt": "DIGITAL SIGNATURE STANDARD EXAMPLE.png",
+                              "width": 1000,
+                              "height": 534,
+                              "fluid": false,
+                              "ratio": 53.39999771118164,
+                              "maxWidth": 1000
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fc63c609b1ed03538b21372",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "left",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 12,
+                "items": [
+                  {
+                    "row": {
+                      "cols": [
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "text",
+                              "id": "998aa6bfec8befefa728",
+                              "html": "<h4 style=\"white-space:pre-wrap;\">Business cards</h4><p style=\"white-space:pre-wrap;\">We have business card templates for both employees and external consultants.</p>"
+                            },
+                            {
+                              "type": "button",
+                              "id": "36fe15693545c7a12aa0",
+                              "text": "Download",
+                              "href": "/s/tk-business-cards-wycw.zip",
+                              "size": "medium",
+                              "variant": "primary",
+                              "align": "left"
+                            }
+                          ]
+                        },
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "d1db68f2bb12568f778d",
+                              "src": "/images/kla/business-cards-klaveness.jpg",
+                              "alt": "business-cards-klaveness.jpg",
+                              "width": 2500,
+                              "height": 1667,
+                              "fluid": false,
+                              "ratio": 66.68000030517578,
+                              "maxWidth": 2500
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fc11ef1bc819f1cf4ffebb6",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "left",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 12,
+                "items": [
+                  {
+                    "type": "anchor",
+                    "id": "f25111d59b1e56ba703b",
+                    "anchor": "kla-vision"
+                  },
+                  {
+                    "type": "spacer",
+                    "id": "c6c90c973ec4280c27b5",
+                    "size": 1
+                  },
+                  {
+                    "row": {
+                      "cols": [
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "text",
+                              "id": "82ffb595e789a399c39c",
+                              "html": "<h3 style=\"white-space:pre-wrap;\">Vision and values</h3><p style=\"white-space:pre-wrap;\">At the core of Torvald Klaveness are the values we live by and the vision we pursue. Our vision is to improve the nature of shipping and underpins our continued commitment to changing and improving the industry we are part of. </p><p style=\"white-space:pre-wrap;\">The vision provides direction and guidance along three dimensions:</p><ul data-rte-list=\"default\"><li><p style=\"white-space:pre-wrap;\">IMPROVING - We always look for new solutions</p></li><li><p style=\"white-space:pre-wrap;\">NATURE - Our ambition is to improve the very nature of the business we are in</p></li><li><p style=\"white-space:pre-wrap;\">SHIPPING - Shipping is our market and where we can make a difference</p></li></ul><p style=\"white-space:pre-wrap;\">Our values define what we stand for and what you can expect from us.</p>"
+                            },
+                            {
+                              "type": "button",
+                              "id": "e0915379ea3d94fab75a",
+                              "text": "Download",
+                              "href": "/s/tk-values-and-mission.zip",
+                              "size": "medium",
+                              "variant": "primary",
+                              "align": "left"
+                            }
+                          ]
+                        },
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "spacer",
+                              "id": "yui_3_17_2_1_1610027048323_29739",
+                              "ratio": 5.214723926380368
+                            },
+                            {
+                              "type": "image",
+                              "id": "yui_3_17_2_1_1610027048323_64147",
+                              "src": "/images/kla/slogan-kla.jpg",
+                              "alt": "slogan-kla.jpg",
+                              "width": 2500,
+                              "height": 1667,
+                              "fluid": false,
+                              "ratio": 66.68000030517578,
+                              "maxWidth": 2500
+                            },
+                            {
+                              "type": "spacer",
+                              "id": "yui_3_17_2_1_1610027048323_50918",
+                              "ratio": 5.214723926380368
+                            },
+                            {
+                              "row": {
+                                "cols": [
+                                  {
+                                    "span": 1,
+                                    "items": [
+                                      {
+                                        "type": "spacer",
+                                        "id": "yui_3_17_2_1_1610027048323_42476",
+                                        "size": 1
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "span": 3,
+                                    "items": [
+                                      {
+                                        "type": "image",
+                                        "id": "9b6d27adc8058fa2d9ac",
+                                        "src": "/images/kla/values-klaveness-2.gif",
+                                        "alt": "values-klaveness-2.gif",
+                                        "width": 2500,
+                                        "height": 2920,
+                                        "fluid": false,
+                                        "ratio": 116.79999542236328,
+                                        "maxWidth": 2500
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "span": 2,
+                                    "items": [
+                                      {
+                                        "type": "spacer",
+                                        "id": "yui_3_17_2_1_1607378751347_90835",
+                                        "ratio": 17.435897435897434
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fae84d754d01722c190367f",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "left",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 12,
+                "items": [
+                  {
+                    "type": "anchor",
+                    "id": "9c6c0fc19759030c9bdc",
+                    "anchor": "kla-images"
+                  },
+                  {
+                    "type": "spacer",
+                    "id": "yui_3_17_2_1_1606480523519_31344",
+                    "size": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "cols": [
+              {
+                "span": 6,
+                "items": [
+                  {
+                    "type": "text",
+                    "id": "57a6d4794c9ef645ecc1",
+                    "html": "<h3 style=\"white-space:pre-wrap;\">Images and icons</h3><p style=\"white-space:pre-wrap;\">The style of the photos used by Klaveness should appear natural. Photos should be bright, of high quality and present elements in a delicate and visually interesting style. Color and contrast can also be used as stylistic devices. Avoid filters and additional graphic elements in the images. Use the existing palette as a reference for new images and illustrations. </p>"
+                  },
+                  {
+                    "type": "button",
+                    "id": "yui_3_17_2_1_1610032637705_63780",
+                    "text": "Visit image gallery",
+                    "href": "https://torvaldklaveness.sharepoint.com/:f:/s/ImageLibrary/Ej97ZjMn4RlGsr_yNbCk-msBkM0wD0UK8ZFn1LLHRRdRiA?e=kwQk27",
+                    "size": "medium",
+                    "variant": "primary",
+                    "align": "left"
+                  }
+                ]
+              },
+              {
+                "span": 6,
+                "items": [
+                  {
+                    "type": "image",
+                    "id": "yui_3_17_2_1_1606478761247_15176",
+                    "src": "/images/kla/pexels-sebastian-189349.jpg",
+                    "alt": "",
+                    "width": 5760,
+                    "height": 3840,
+                    "fluid": false,
+                    "ratio": 66.66667175292969,
+                    "maxWidth": 5760
+                  },
+                  {
+                    "type": "image",
+                    "id": "yui_3_17_2_1_1606480327984_10404",
+                    "src": "/images/kla/klaveness-portretter-16-juni-116-of-138-1.jpg",
+                    "alt": "",
+                    "width": 5685,
+                    "height": 3675,
+                    "fluid": false,
+                    "ratio": 64.643798828125,
+                    "maxWidth": 5685
+                  },
+                  {
+                    "type": "image",
+                    "id": "yui_3_17_2_1_1606480327984_8679",
+                    "src": "/images/kla/mv-baru-9-maiden-voyage-bunbury-edited.png",
+                    "alt": "MV Baru (9) Maiden voyage, Bunbury_edited.png",
+                    "width": 1920,
+                    "height": 1080,
+                    "fluid": false,
+                    "ratio": 56.25,
+                    "maxWidth": 1920
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "6853dd5643a52d78ee44bf24",
+      "anchor": "company-presentation",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "left",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 12,
+                "items": [
+                  {
+                    "type": "anchor",
+                    "id": "e9e48d43f4047ce7ca9b",
+                    "anchor": "kla-images"
+                  },
+                  {
+                    "type": "spacer",
+                    "id": "b754cd2e26b09f832a68",
+                    "size": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "cols": [
+              {
+                "span": 6,
+                "items": [
+                  {
+                    "type": "text",
+                    "id": "8ed770bcaf9512982d66",
+                    "html": "<h3 style=\"white-space:pre-wrap;\">Company presentation</h3><p style=\"white-space:pre-wrap;\">The new company presentation slide deck provides a brief overview of who we are, what we do, and how we are organized. You can select the slides that best fit your audience. Be sure to check the notes section, as some slides, especially the company history, include talking points for reference.</p><p style=\"white-space:pre-wrap;\"><em>This will be updated regularly to reflect strategic and organizational changes.</em></p>"
+                  },
+                  {
+                    "type": "button",
+                    "id": "38d4f3e2c03d7b965f6c",
+                    "text": "Download",
+                    "href": "/s/Company_Presentation_Oct_2026.pptx",
+                    "newTab": true,
+                    "size": "medium",
+                    "variant": "primary",
+                    "align": "left"
+                  }
+                ]
+              },
+              {
+                "span": 6,
+                "items": [
+                  {
+                    "type": "image",
+                    "id": "71631eb6d7315ba4d2c5",
+                    "src": "/images/kla/screenshot-2025-06-19-at-11-55-31.png",
+                    "alt": "",
+                    "width": 1488,
+                    "height": 828,
+                    "fluid": false,
+                    "ratio": 55.64516067504883,
+                    "maxWidth": 1488
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

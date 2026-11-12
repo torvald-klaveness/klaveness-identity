@@ -1,0 +1,44 @@
+{
+  "sections": [
+    {
+      "id": "684bdadb60ef9a13214ad6e7",
+      "theme": "white",
+      "height": "small",
+      "contentWidth": "wide",
+      "vAlign": "bottom",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "fullBleed": true,
+      "layout": {
+        "kind": "fluid",
+        "mobileRows": 6,
+        "desktopRows": 4,
+        "rowScale": 0.0215,
+        "blocks": [
+          {
+            "desktop": [
+              1,
+              2,
+              5,
+              26
+            ],
+            "mobile": [
+              1,
+              2,
+              7,
+              10
+            ],
+            "z": 0,
+            "justify": "flex-start",
+            "align": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "684bdadbad7f721d88c75122",
+              "html": "<p style=\"white-space:pre-wrap;\"><strong>Questions?</strong><br>Get in touch with Head of Corporate Communications, <br>Haley Zerwas Kerek: <a href=\"mailto:hzk@klaveness.com?\" target=\"_blank\"><span class=\"sqsrte-text-color--custom\" style=\"color: #FF5B29\">hzk@klaveness.com</span></a></p><p style=\"white-space:pre-wrap;\">© Torvald Klaveness 2023</p>"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

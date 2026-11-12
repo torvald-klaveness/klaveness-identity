@@ -1,0 +1,4 @@
+pnpm-lock.yaml
+.next
+# Downloads and images are files served as-is
+public

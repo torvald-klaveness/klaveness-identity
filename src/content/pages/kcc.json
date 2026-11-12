@@ -1,0 +1,1346 @@
+{
+  "title": "Klaveness Combination Carriers — Klaveness Brands",
+  "noindex": true,
+  "sections": [
+    {
+      "id": "5fd33f9d8df3fe463c7f5834",
+      "theme": "white",
+      "height": "small",
+      "contentWidth": "wide",
+      "vAlign": "top",
+      "hAlign": "left",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 12,
+                "items": [
+                  {
+                    "type": "anchor",
+                    "id": "8bf4c7443accab3c5735",
+                    "anchor": "kcc-logo"
+                  },
+                  {
+                    "type": "spacer",
+                    "id": "1ec91996d09b67f9b89b",
+                    "size": 1
+                  },
+                  {
+                    "type": "text",
+                    "id": "7a6ac2354e853d318e5c",
+                    "html": "<h1 style=\"white-space:pre-wrap;\">Klaveness Combination Carriers<br>Brand Guide</h1><p style=\"white-space:pre-wrap;\">Last updated January 2023</p>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fd33f9d8df3fe463c7f5836",
+      "theme": "white",
+      "height": "small",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "left",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 12,
+                "items": [
+                  {
+                    "type": "anchor",
+                    "id": "7dee71647148a834eed3",
+                    "anchor": "kla-logo"
+                  },
+                  {
+                    "type": "spacer",
+                    "id": "41b6cf117e621e8706e2",
+                    "size": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "cols": [
+              {
+                "span": 6,
+                "items": [
+                  {
+                    "type": "text",
+                    "id": "8b4423c6a554d000fc45",
+                    "html": "<h2 style=\"white-space:pre-wrap;\">Logo</h2><p style=\"white-space:pre-wrap;\">The blue logo is mainly used on white backgrounds. When applied to darker surfaces you should use the white version. If you cannot use the main logo due to lack of spacing, use either the portrait or landscape versions, whichever is most suitable. The space between the logo and other elements must be consistent. The minimum amount of clearance around the logo must be equal to the size of the letter “a” in the logo.</p>"
+                  },
+                  {
+                    "type": "button",
+                    "id": "fc69a144f299645b98bb",
+                    "text": "Download",
+                    "href": "/s/kcc-logo-caaj.zip",
+                    "newTab": true,
+                    "size": "medium",
+                    "variant": "primary",
+                    "align": "left"
+                  }
+                ]
+              },
+              {
+                "span": 6,
+                "items": [
+                  {
+                    "type": "image",
+                    "id": "yui_3_17_2_1_1608753230541_15063",
+                    "src": "/images/kcc/thumbnail-kcc-logo.gif",
+                    "alt": "thumbnail-kcc-logo.gif",
+                    "width": 2500,
+                    "height": 843,
+                    "fluid": false,
+                    "ratio": 33.71999740600586,
+                    "maxWidth": 2500
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fd33f9d8df3fe463c7f5838",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "left",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 6,
+                "items": [
+                  {
+                    "type": "text",
+                    "id": "fe4b00d384a0300fbc48",
+                    "html": "<h3 style=\"white-space:pre-wrap;\">Concept logo</h3><p style=\"white-space:pre-wrap;\">Klaveness Combination Carrier products or services are to be branded in the same visual profile as the brand itself, using the same color scheme and font. When marketing products or services, they should always carry the post-fix “by Klaveness”. The minimum amount of clearance around the logo must be equal to the size of the letter “a” in the logo.</p>"
+                  },
+                  {
+                    "type": "button",
+                    "id": "f96264ccd970c60052a9",
+                    "text": "Download",
+                    "href": "/s/kcc-concept-logo-m8xc.zip",
+                    "size": "medium",
+                    "variant": "primary",
+                    "align": "left"
+                  }
+                ]
+              },
+              {
+                "span": 6,
+                "items": [
+                  {
+                    "type": "image",
+                    "id": "yui_3_17_2_1_1608761050933_9401",
+                    "src": "/images/kcc/kcc-concept-gif.gif",
+                    "alt": "kcc-concept-gif.gif",
+                    "width": 1133,
+                    "height": 458,
+                    "fluid": false,
+                    "ratio": 40.42365264892578,
+                    "maxWidth": 1133
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fd33f9d8df3fe463c7f583a",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "left",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 12,
+                "items": [
+                  {
+                    "type": "anchor",
+                    "id": "e30b9db03e346cbc8352",
+                    "anchor": "kcc-typography"
+                  },
+                  {
+                    "type": "spacer",
+                    "id": "60b315834cd5721b5d08",
+                    "size": 1
+                  },
+                  {
+                    "row": {
+                      "cols": [
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "text",
+                              "id": "3b373f1f7f2f752d6c99",
+                              "html": "<h3 style=\"white-space:pre-wrap;\">Font</h3><p style=\"white-space:pre-wrap;\">The primary font is Source Sans Pro designed by Paul D. Hunt and can be downloaded for free. When Source Sans Pro is not an option, Arial can be used. Visit this site for conditions of use, and download the Source Sans Pro font package.</p>"
+                            },
+                            {
+                              "type": "button",
+                              "id": "yui_3_17_2_1_1608761170034_9915",
+                              "text": "Download",
+                              "href": "/s/Source_Sans_3.zip",
+                              "newTab": true,
+                              "size": "medium",
+                              "variant": "primary",
+                              "align": "left"
+                            }
+                          ]
+                        },
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "86920e329bea33f72115",
+                              "src": "/images/kla/font-klaveness-2.gif",
+                              "alt": "font-klaveness-2.gif",
+                              "width": 1524,
+                              "height": 389,
+                              "fluid": false,
+                              "ratio": 25.524934768676758,
+                              "maxWidth": 1524
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fd33f9d8df3fe463c7f583c",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "left",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 12,
+                "items": [
+                  {
+                    "row": {
+                      "cols": [
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "text",
+                              "id": "dd6f486c0fb05a8442e8",
+                              "html": "<h3 style=\"white-space:pre-wrap;\">Brand wordmark </h3><p style=\"white-space:pre-wrap;\">Edit Serif Pro is the font used and reserved for our logo only.</p>"
+                            }
+                          ]
+                        },
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "9af2c88edbfaaf21148a",
+                              "src": "/images/kcc/wordmark-klaveness.gif",
+                              "alt": "wordmark-klaveness.gif",
+                              "width": 1443,
+                              "height": 302,
+                              "fluid": false,
+                              "ratio": 20.928621292114258,
+                              "maxWidth": 1443
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fd33f9d8df3fe463c7f583e",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "left",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 12,
+                "items": [
+                  {
+                    "type": "anchor",
+                    "id": "faebd0d9b73fce94f56f",
+                    "anchor": "kcc-colours"
+                  },
+                  {
+                    "type": "spacer",
+                    "id": "844bac6a1e03e978cc08",
+                    "size": 1
+                  },
+                  {
+                    "row": {
+                      "cols": [
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "text",
+                              "id": "12fb875a514df9402b52",
+                              "html": "<h3 style=\"white-space:pre-wrap;\">Colors</h3><p style=\"white-space:pre-wrap;\">The color palette consists of 12 colors. Orange is the accent color of Torvald Klaveness and should not be used by any other Klaveness company.</p>"
+                            }
+                          ]
+                        },
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "spacer",
+                              "id": "e47d076baf9bd78e2d16",
+                              "size": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "spacer",
+                    "id": "d3bc2324ca979d02710e",
+                    "size": 1
+                  },
+                  {
+                    "row": {
+                      "cols": [
+                        {
+                          "span": 2,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "8a33b6921fc9a4933fa6",
+                              "src": "/images/kcc/kcc-05582b.png",
+                              "alt": "Dawn Blue Screen: #05586B Screen: RGB 5/88/107 Print (CMYK): 93 M55 Y43 K20  Pantone: 7476 C Paint: NCS S 5540-B30G",
+                              "width": 2500,
+                              "height": 2499,
+                              "caption": "<p style=\"white-space:pre-wrap;\"><strong>Dawn Blue</strong><br>Screen: #05586B<br>Screen: RGB 5/88/107<br>Print (CMYK): 93 M55 Y43 K20 <br>Pantone: 7476 C<br>Paint: NCS S 5540-B30G</p>",
+                              "fluid": false,
+                              "ratio": 99.95999908447266,
+                              "maxWidth": 2500
+                            }
+                          ]
+                        },
+                        {
+                          "span": 2,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "yui_3_17_2_1_1610030300942_19458",
+                              "src": "/images/kcc/kcc-blue.png",
+                              "alt": "Vivid Blue  Screen: #00A5C8 Screen: RGB 0/165/200 Print (CMYK): C88 M0 Y11 K0  Pantone: 312 C Paint: NCS S 1060-B",
+                              "width": 1022,
+                              "height": 1008,
+                              "caption": "<p style=\"white-space:pre-wrap;\"><strong>Vivid Blue </strong><br>Screen: #00A5C8<br>Screen: RGB 0/165/200<br>Print (CMYK): C88 M0 Y11 K0 <br>Pantone: 312 C<br>Paint: NCS S 1060-B</p>",
+                              "fluid": false,
+                              "ratio": 98.63013458251953,
+                              "maxWidth": 1022
+                            }
+                          ]
+                        },
+                        {
+                          "span": 2,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "7b793002ff0b5967f116",
+                              "src": "/images/kla/kla-667290.png",
+                              "alt": "Blue 50% Screen: #667290 Screen: RGB 102/114/144 Print (CMYK): C65 M51 Y26 K9  Pantone: 285 EC Paint: NCS S 3050-R80B",
+                              "width": 1500,
+                              "height": 1500,
+                              "caption": "<p style=\"white-space:pre-wrap;\"><strong>Blue 50%</strong><br>Screen: #667290<br>Screen: RGB 102/114/144<br>Print (CMYK): C65 M51 Y26 K9 <br>Pantone: 285 EC<br>Paint: NCS S 3050-R80B</p>",
+                              "fluid": false,
+                              "ratio": 100,
+                              "maxWidth": 1500
+                            }
+                          ]
+                        },
+                        {
+                          "span": 2,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "b3bc7fa5917549f057cc",
+                              "src": "/images/kcc/kcc-032a33.png",
+                              "alt": "Dusk Blue Screen: #032A33 Screen: RGB 3/42/51 Print (CMYK): C93 M67 Y60 K60 Pantone: 3308 C Paint: NCS S 7020-B90G",
+                              "width": 2500,
+                              "height": 2500,
+                              "caption": "<p style=\"white-space:pre-wrap;\"><strong>Dusk Blue</strong><br>Screen: #032A33<br>Screen: RGB 3/42/51<br>Print (CMYK): C93 M67 Y60 K60<br>Pantone: 3308 C<br>Paint: NCS S 7020-B90G</p>",
+                              "fluid": false,
+                              "ratio": 100,
+                              "maxWidth": 2500
+                            }
+                          ]
+                        },
+                        {
+                          "span": 2,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "b8f662b2d6859796bd90",
+                              "src": "/images/kcc/kcc-426ddb.png",
+                              "alt": "Bright Blue Screen: #426DDB Screen: RGB 66/109/219 Print (CMYK): C77 M60 Y0 K0  Pantone: 285 C Paint: NCS S 2065-R90B",
+                              "width": 2500,
+                              "height": 2500,
+                              "caption": "<p style=\"white-space:pre-wrap;\"><strong>Bright Blue</strong><br>Screen: #426DDB<br>Screen: RGB 66/109/219<br>Print (CMYK): C77 M60 Y0 K0 <br>Pantone: 285 C<br>Paint: NCS S 2065-R90B</p>",
+                              "fluid": false,
+                              "ratio": 100,
+                              "maxWidth": 2500
+                            }
+                          ]
+                        },
+                        {
+                          "span": 2,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "5f17d9b44b9d148ac359",
+                              "src": "/images/kcc/kcc-398ea2.png",
+                              "alt": "Sea Blue Screen: #398EA2 Screen: RGB 57/142/162 Print (CMYK): C77 M30 Y30 K0  Pantone: 326 C Paint: NCS S 2050-B80G",
+                              "width": 2500,
+                              "height": 2500,
+                              "caption": "<p style=\"white-space:pre-wrap;\"><strong>Sea Blue</strong><br>Screen: #398EA2<br>Screen: RGB 57/142/162<br>Print (CMYK): C77 M30 Y30 K0 <br>Pantone: 326 C<br>Paint: NCS S 2050-B80G</p>",
+                              "fluid": false,
+                              "ratio": 100,
+                              "maxWidth": 2500
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "row": {
+                      "cols": [
+                        {
+                          "span": 2,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "490e31b83cfe74acf70a",
+                              "src": "/images/kcc/kcc-a49fa9.png",
+                              "alt": "Grey Screen: #A49FA9 Screen: RGB 165/160/170 Print (CMYK): C38 M34 Y24 K06  Pantone: 436 C Paint: NCS S 3502-R",
+                              "width": 2500,
+                              "height": 2500,
+                              "caption": "<p style=\"white-space:pre-wrap;\"><strong>Grey</strong><br>Screen: #A49FA9<br>Screen: RGB 165/160/170<br>Print (CMYK): C38 M34 Y24 K06 <br>Pantone: 436 C<br>Paint: NCS S 3502-R</p>",
+                              "fluid": false,
+                              "ratio": 100,
+                              "maxWidth": 2500
+                            }
+                          ]
+                        },
+                        {
+                          "span": 2,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "yui_3_17_2_1_1609944980245_15026",
+                              "src": "/images/kcc/kcc-c7c2c7.png",
+                              "alt": "Grey 50 % Screen: #C7C2C7 Screen: RGB 200/195/200 Print (CMYK): C25 M22 Y17 K01  Pantone: 435 C Paint: NCS S 2502-R",
+                              "width": 2500,
+                              "height": 2500,
+                              "caption": "<p style=\"white-space:pre-wrap;\"><strong>Grey 50 %</strong><br>Screen: #C7C2C7<br>Screen: RGB 200/195/200<br>Print (CMYK): C25 M22 Y17 K01 <br>Pantone: 435 C<br>Paint: NCS S 2502-R</p>",
+                              "fluid": false,
+                              "ratio": 100,
+                              "maxWidth": 2500
+                            }
+                          ]
+                        },
+                        {
+                          "span": 2,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "yui_3_17_2_1_1609946377478_25282",
+                              "src": "/images/kcc/kcc-efefef.png",
+                              "alt": "Grey 30 % Screen: #EFEFEF Screen: RGB 240/240/240 Print (CMYK): C07 M05 Y06 K00  Pantone: 434 C Paint: NCS S 1002-R",
+                              "width": 1000,
+                              "height": 1000,
+                              "caption": "<p style=\"white-space:pre-wrap;\"><strong>Grey 30 %<br></strong>Screen: #EFEFEF<br>Screen: RGB 240/240/240<br>Print (CMYK): C07 M05 Y06 K00 <br>Pantone: 434 C<br>Paint: NCS S 1002-R</p>",
+                              "fluid": false,
+                              "ratio": 100,
+                              "maxWidth": 1000
+                            }
+                          ]
+                        },
+                        {
+                          "span": 2,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "04f2c57376e7f99dd2af",
+                              "src": "/images/kla/kla-silver.png",
+                              "alt": "Silver Screen: #BDC3C5 Screen: RGB 189/195/197 Print (CMYK): C0 M0 Y0 K30  Pantone: 877 C Paint: NCS S 2502-B",
+                              "width": 1500,
+                              "height": 1500,
+                              "caption": "<p style=\"white-space:pre-wrap;\"><strong>Silver</strong><br>Screen: #BDC3C5<br>Screen: RGB 189/195/197<br>Print (CMYK): C0 M0 Y0 K30 <br>Pantone: 877 C<br>Paint: NCS S 2502-B</p>",
+                              "fluid": false,
+                              "ratio": 100,
+                              "maxWidth": 1500
+                            }
+                          ]
+                        },
+                        {
+                          "span": 4,
+                          "items": [
+                            {
+                              "row": {
+                                "cols": [
+                                  {
+                                    "span": 2,
+                                    "items": [
+                                      {
+                                        "type": "image",
+                                        "id": "5e94d829b395efdd9965",
+                                        "src": "/images/kla/kla-white.png",
+                                        "alt": "White Screen: #FFFFFF Screen: RGB 255/255/255 Print (CMYK): C0 M0 Y0 K0  Paint: NCS S 0300-N",
+                                        "width": 1500,
+                                        "height": 1500,
+                                        "caption": "<p style=\"white-space:pre-wrap;\"><strong>White</strong><br>Screen: #FFFFFF<br>Screen: RGB 255/255/255<br>Print (CMYK): C0 M0 Y0 K0 <br>Paint: NCS S 0300-N</p>",
+                                        "fluid": false,
+                                        "ratio": 100,
+                                        "maxWidth": 1500
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "span": 2,
+                                    "items": [
+                                      {
+                                        "type": "image",
+                                        "id": "yui_3_17_2_1_1610030300942_44211",
+                                        "src": "/images/kcc/tk-black.png",
+                                        "alt": "Black Screen: #000000 Screen: RGB 0/0/0 Print (CMYK): C0 M0 Y0 K100 Pantone: Black C Paint:  NCS S 9000-N",
+                                        "width": 1126,
+                                        "height": 1125,
+                                        "caption": "<p style=\"white-space:pre-wrap;\"><strong>Black<br></strong>Screen: #000000<br>Screen: RGB 0/0/0<br>Print (CMYK): C0 M0 Y0 K100<br>Pantone: Black C<br>Paint:  NCS S 9000-N</p>",
+                                        "fluid": false,
+                                        "ratio": 99.91118621826172,
+                                        "maxWidth": 1126
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fd33f9d8df3fe463c7f5840",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 6,
+                "items": [
+                  {
+                    "type": "text",
+                    "id": "ca30e418817e43b1805a",
+                    "html": "<h3 style=\"white-space:pre-wrap;\">Accent color </h3><p style=\"white-space:pre-wrap;\">Vivid blue is the accent color of Klaveness Combination Carriers, and is used for emphasis in the color scheme. It is a bold and bright blue that should be used sparingly to emphasize and create contrast.</p><p style=\"white-space:pre-wrap;\"><strong>Vivid Blue </strong><br>Screen: #00A5C8<br>Screen: RGB 0/165/200<br>Print (CMYK): C88 M0 Y11 K0 <br>Pantone: 312 C<br>Paint: NCS S 1060-B</p>"
+                  }
+                ]
+              },
+              {
+                "span": 6,
+                "items": [
+                  {
+                    "type": "image",
+                    "id": "45d5bc4c51eee088fbdc",
+                    "src": "/images/kcc/kcc-bright-blue-accent.png",
+                    "alt": "kcc-bright-blue-accent.png",
+                    "width": 2500,
+                    "height": 2500,
+                    "fluid": false,
+                    "ratio": 100,
+                    "maxWidth": 2500
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fd33f9d8df3fe463c7f5842",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 6,
+                "items": [
+                  {
+                    "type": "text",
+                    "id": "9b74eda952428677398e",
+                    "html": "<h3 style=\"white-space:pre-wrap;\">Color use </h3><p style=\"white-space:pre-wrap;\">The following color combinations are allowed when working with multiple colors. Consider the color proportions when using the various colors as displayed in this guide. Bright blue is the accent color of Klaveness Combination Carriers and is used for emphasis in the color scheme. </p><p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p>"
+                  }
+                ]
+              },
+              {
+                "span": 6,
+                "items": [
+                  {
+                    "type": "image",
+                    "id": "3a868912fecff6d0d13a",
+                    "src": "/images/kcc/kcc-colours.png",
+                    "alt": "kcc-colours.png",
+                    "width": 1000,
+                    "height": 1521,
+                    "fluid": false,
+                    "ratio": 152.10000610351562,
+                    "maxWidth": 1000
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fd33f9d8df3fe463c7f5844",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 6,
+                "items": [
+                  {
+                    "type": "text",
+                    "id": "0cef4b1d4a6c61ad5456",
+                    "html": "<h3 style=\"white-space:pre-wrap;\">Principles</h3><p style=\"white-space:pre-wrap;\">Example of how to apply the Klaveness Combination Carriers brand </p><p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p>"
+                  }
+                ]
+              },
+              {
+                "span": 6,
+                "items": [
+                  {
+                    "type": "image",
+                    "id": "08115df98464a488f0bc",
+                    "src": "/images/kcc/kcc-colour-example.jpg",
+                    "alt": "kcc-colour-example.jpg",
+                    "width": 1920,
+                    "height": 1080,
+                    "fluid": false,
+                    "ratio": 56.25,
+                    "maxWidth": 1920
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fd33f9d8df3fe463c7f5846",
+      "theme": "white",
+      "height": "small",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "left",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 12,
+                "items": [
+                  {
+                    "type": "anchor",
+                    "id": "90172c5351b1b33d1f97",
+                    "anchor": "kcc-brand-elements"
+                  },
+                  {
+                    "type": "spacer",
+                    "id": "4857b682d975a478d184",
+                    "size": 1
+                  },
+                  {
+                    "row": {
+                      "cols": [
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "text",
+                              "id": "f07694f56c1614bae399",
+                              "html": "<h3 style=\"white-space:pre-wrap;\">Templates</h3><p style=\"white-space:pre-wrap;\">In this section you will various templates, scroll down to find:</p><ul data-rte-list=\"default\"><li><p style=\"white-space:pre-wrap;\">PowerPoint template</p></li><li><p style=\"white-space:pre-wrap;\">Power BI template</p></li><li><p style=\"white-space:pre-wrap;\">Memo template</p></li><li><p style=\"white-space:pre-wrap;\">Letterheads</p></li><li><p style=\"white-space:pre-wrap;\">Email signature</p></li><li><p style=\"white-space:pre-wrap;\">Business cards</p></li></ul><p style=\"white-space:pre-wrap;\">  </p>"
+                            }
+                          ]
+                        },
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "spacer",
+                              "id": "bf64f3e1e23a836d485b",
+                              "size": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fd33f9d8df3fe463c7f5848",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "left",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 12,
+                "items": [
+                  {
+                    "row": {
+                      "cols": [
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "text",
+                              "id": "5e4fd35d197de5e83a7f",
+                              "html": "<h4 style=\"white-space:pre-wrap;\">PowerPoint template</h4><p style=\"white-space:pre-wrap;\">The PowerPoint template is available through the template library in PowerPoint and can also be downloaded here.</p>"
+                            },
+                            {
+                              "type": "button",
+                              "id": "5873bf688589e92cf7dc",
+                              "text": "Download",
+                              "href": "/s/Klaveness_Combination_Carriers2025.potx",
+                              "newTab": true,
+                              "size": "medium",
+                              "variant": "primary",
+                              "align": "left"
+                            }
+                          ]
+                        },
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "4986c016c41b16a9685b",
+                              "src": "/images/kcc/thumbnail-kcc-ppt.jpg",
+                              "alt": "thumbnail-kcc-ppt.jpg",
+                              "width": 2500,
+                              "height": 1500,
+                              "fluid": false,
+                              "ratio": 60.000003814697266,
+                              "maxWidth": 2500
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fd33f9d8df3fe463c7f584a",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "left",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 12,
+                "items": [
+                  {
+                    "row": {
+                      "cols": [
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "text",
+                              "id": "4be7e7e02fb0b5b5daa7",
+                              "html": "<h4 style=\"white-space:pre-wrap;\">Power BI template</h4><p style=\"white-space:pre-wrap;\">In order to add the Klaveness Combination Carriers theme to your Power BI dashboard, you must download the theme and apply like described <a href=\"https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-report-themes\" target=\"_blank\">here. </a></p>"
+                            },
+                            {
+                              "type": "button",
+                              "id": "a3a3f23457307cdd338a",
+                              "text": "Download",
+                              "href": "/s/Klaveness-Combination-Carriers-Power-BI-theme.json",
+                              "size": "medium",
+                              "variant": "primary",
+                              "align": "left"
+                            }
+                          ]
+                        },
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "c1f0828bb743a299f45c",
+                              "src": "/images/kcc/thumbnail-kcc-power-bi.jpg",
+                              "alt": "thumbnail-kcc-power-bi.jpg",
+                              "width": 2500,
+                              "height": 1500,
+                              "fluid": false,
+                              "ratio": 60.000003814697266,
+                              "maxWidth": 2500
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "602fa262474168392c15cce0",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "left",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 12,
+                "items": [
+                  {
+                    "row": {
+                      "cols": [
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "text",
+                              "id": "391e2cf562dd8a141be3",
+                              "html": "<h4 style=\"white-space:pre-wrap;\">Memo template</h4><p style=\"white-space:pre-wrap;\">Compose a memo with this template. It can also be found in the template library in Word. <a href=\"https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-report-themes\" target=\"_blank\"> </a></p>"
+                            },
+                            {
+                              "type": "button",
+                              "id": "3070266e4de4f6cb7a8d",
+                              "text": "Download",
+                              "href": "/s/kcc-memo-template.dotx",
+                              "size": "medium",
+                              "variant": "primary",
+                              "align": "left"
+                            }
+                          ]
+                        },
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "6f54ba72df3add2a7acd",
+                              "src": "/images/kcc/thumbnail-kcc-memo.jpg",
+                              "alt": "thumbnail-kcc-memo.jpg",
+                              "width": 2500,
+                              "height": 1667,
+                              "fluid": false,
+                              "ratio": 66.68000030517578,
+                              "maxWidth": 2500
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fd33f9d8df3fe463c7f584c",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "left",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 12,
+                "items": [
+                  {
+                    "type": "text",
+                    "id": "9b60f3f491d16d6da5f3",
+                    "html": "<h4 style=\"white-space:pre-wrap;\">Letterheads</h4>"
+                  },
+                  {
+                    "row": {
+                      "cols": [
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "text",
+                              "id": "b53bc761f67dd96c8c25",
+                              "html": "<p style=\"white-space:pre-wrap;\">Letterheads and envelopes should display information such as address and contact information of the relevant business unit or office. Letterheads should display information in the top right corner and envelopes should display information in the top left. This applies to all standard shapes and sizes in both envelopes and letter heads. You may download letterheads here and request envelope design by sending an email to <a href=\"mailto:lkg@klaveness.com\">lkg@klaveness.com</a></p>"
+                            },
+                            {
+                              "type": "button",
+                              "id": "520377d6ca56e088b81a",
+                              "text": "Download",
+                              "href": "/s/kcc-letterheads-z5mn.zip",
+                              "size": "medium",
+                              "variant": "primary",
+                              "align": "left"
+                            }
+                          ]
+                        },
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "f2b0250d1d72f72a7c59",
+                              "src": "/images/kcc/thumbnail-kcc-letterhead.jpg",
+                              "alt": "",
+                              "width": 838,
+                              "height": 558,
+                              "fluid": false,
+                              "ratio": 66.58711242675781,
+                              "maxWidth": 838
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fd33f9d8df3fe463c7f5850",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "left",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 12,
+                "items": [
+                  {
+                    "row": {
+                      "cols": [
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "text",
+                              "id": "a135841cf04a4c2ae3a1",
+                              "html": "<h4 style=\"white-space:pre-wrap;\">Email signature</h4><p style=\"white-space:pre-wrap;\">There are two signature versions available for download, a standard signature and employees are to use when communicating on behalf of another Klaveness company. If you are employeed in Klaveness Combination Carriers ASA for example, and communicate on behalf of Klaveness Ship Management AS, you must always use the “On behalf of <em>Company” </em>signature in your correspondence. </p><p style=\"white-space:pre-wrap;\"><a href=\"https://support.office.com/en-ie/article/create-and-add-a-signature-to-messages-8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2\" target=\"_blank\">View guide on how to update your email signature</a></p>"
+                            },
+                            {
+                              "type": "button",
+                              "id": "yui_3_17_2_1_1610031366759_49710",
+                              "text": "Download",
+                              "href": "/s/kcc-email-signature-4g7n.zip",
+                              "size": "medium",
+                              "variant": "primary",
+                              "align": "left"
+                            },
+                            {
+                              "type": "text",
+                              "id": "yui_3_17_2_1_1610031366759_49778",
+                              "html": "<p style=\"white-space:pre-wrap;\"><br></p>"
+                            }
+                          ]
+                        },
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "2f95d210ebd9f8f5f1bb",
+                              "src": "/images/kcc/thumbnail-kcc-email-signature.png",
+                              "alt": "thumbnail-kcc-email-signature.png",
+                              "width": 1000,
+                              "height": 554,
+                              "fluid": false,
+                              "ratio": 55.400001525878906,
+                              "maxWidth": 1000
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fd33f9d8df3fe463c7f5852",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "left",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 12,
+                "items": [
+                  {
+                    "row": {
+                      "cols": [
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "text",
+                              "id": "ade67b11f82b34fa72de",
+                              "html": "<h4 style=\"white-space:pre-wrap;\">Business cards</h4><p style=\"white-space:pre-wrap;\">We have business card templates for both employees and external consultants.</p>"
+                            },
+                            {
+                              "type": "button",
+                              "id": "3e481ea88a812026d5e9",
+                              "text": "Download",
+                              "href": "/s/kcc-business-cards-5j6k.zip",
+                              "newTab": true,
+                              "size": "medium",
+                              "variant": "primary",
+                              "align": "left"
+                            }
+                          ]
+                        },
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "205a42d944a76d62be67",
+                              "src": "/images/kcc/business-cards-kcc.jpg",
+                              "alt": "business-cards-kcc.jpg",
+                              "width": 2500,
+                              "height": 1667,
+                              "fluid": false,
+                              "ratio": 66.68000030517578,
+                              "maxWidth": 2500
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fd33f9d8df3fe463c7f5854",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "left",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 12,
+                "items": [
+                  {
+                    "type": "anchor",
+                    "id": "8fad75ae83b4400da36b",
+                    "anchor": "kcc-vision"
+                  },
+                  {
+                    "type": "spacer",
+                    "id": "7699c5349813b9ca6edb",
+                    "size": 1
+                  },
+                  {
+                    "row": {
+                      "cols": [
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "text",
+                              "id": "4951439ecbd09e5737ce",
+                              "html": "<h3 style=\"white-space:pre-wrap;\">Slogan</h3><p style=\"white-space:pre-wrap;\"><strong>Future bound</strong> is our slogan and underpins our continued commitment to be a progressive voice in deep-sea shipping and taking an active part in the transition to low carbon shipping. </p><p style=\"white-space:pre-wrap;\">There are two variations that may be used. The slogan is not to be stretched or altered in any way, and can be applied on top of images or backgrounds in white or KCC blue. </p>"
+                            },
+                            {
+                              "type": "button",
+                              "id": "ddb1eaef05a0900494b1",
+                              "text": "Download",
+                              "href": "/s/kcc-slogan-gcyj.zip",
+                              "size": "medium",
+                              "variant": "primary",
+                              "align": "left"
+                            }
+                          ]
+                        },
+                        {
+                          "span": 6,
+                          "items": [
+                            {
+                              "type": "image",
+                              "id": "212ed7de7d0905accba8",
+                              "src": "/images/kcc/slogan-kcc.jpg",
+                              "alt": "slogan-kcc.jpg",
+                              "width": 2500,
+                              "height": 1667,
+                              "fluid": false,
+                              "ratio": 66.68000030517578,
+                              "maxWidth": 2500
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fd33f9d8df3fe463c7f5856",
+      "theme": "white",
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "left",
+      "backgroundWidth": "full-bleed",
+      "layout": {
+        "kind": "classic",
+        "rows": [
+          {
+            "cols": [
+              {
+                "span": 12,
+                "items": [
+                  {
+                    "type": "anchor",
+                    "id": "29d2d95b5287a2676701",
+                    "anchor": "kcc-images"
+                  },
+                  {
+                    "type": "spacer",
+                    "id": "d9fcb187093ab404a379",
+                    "size": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "cols": [
+              {
+                "span": 6,
+                "items": [
+                  {
+                    "type": "text",
+                    "id": "5944d483f8ef7e5b9a66",
+                    "html": "<h3 style=\"white-space:pre-wrap;\">Images and icons </h3><p style=\"white-space:pre-wrap;\">The style of the photos and used by Klaveness should appear natural. Photos should be bright, of high quality and present elements in a delicate and visually interesting style. Colour and contrast can also be used as stylistic devices. Avoid filters and additional graphic elements in the images. Use the existing palette as a reference for new images and illustrations. </p>"
+                  },
+                  {
+                    "type": "button",
+                    "id": "yui_3_17_2_1_1610032824945_12808",
+                    "text": "Visit image gallery",
+                    "href": "https://torvaldklaveness.sharepoint.com/:f:/s/ImageLibrary/Ej97ZjMn4RlGsr_yNbCk-msBkM0wD0UK8ZFn1LLHRRdRiA?e=kwQk27",
+                    "size": "medium",
+                    "variant": "primary",
+                    "align": "left"
+                  }
+                ]
+              },
+              {
+                "span": 6,
+                "items": [
+                  {
+                    "type": "image",
+                    "id": "6818602c95ed19d45e04",
+                    "src": "/images/kcc/mv-balboa-1-edited.png",
+                    "alt": "MV Balboa (1)_edited.png",
+                    "width": 1920,
+                    "height": 1080,
+                    "fluid": false,
+                    "ratio": 56.25,
+                    "maxWidth": 1920
+                  },
+                  {
+                    "type": "image",
+                    "id": "fba081f15d9b0aee5b4f",
+                    "src": "/images/kcc/mv-bakkedal-6.jpg",
+                    "alt": "MV Bakkedal (6).jpg",
+                    "width": 2500,
+                    "height": 1602,
+                    "fluid": false,
+                    "ratio": 64.08000183105469,
+                    "maxWidth": 2500
+                  },
+                  {
+                    "type": "image",
+                    "id": "991c99707aee027a1424",
+                    "src": "/images/kla/mv-baru-9-maiden-voyage-bunbury-edited.png",
+                    "alt": "MV Baru (9) Maiden voyage, Bunbury_edited.png",
+                    "width": 1920,
+                    "height": 1080,
+                    "fluid": false,
+                    "ratio": 56.25,
+                    "maxWidth": 1920
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

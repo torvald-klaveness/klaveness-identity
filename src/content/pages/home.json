@@ -1,0 +1,29 @@
+{
+  "title": "Klaveness Brands",
+  "sections": [
+    {
+      "id": "63106a55f80af9b0dee1e8dc",
+      "theme": "white",
+      "backgroundImage": {
+        "src": "/images/home/kalveness.jpg",
+        "alt": "",
+        "width": 1500,
+        "height": 1000,
+        "overlayOpacity": 0.15
+      },
+      "height": "large",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "fullBleed": true,
+      "layout": {
+        "kind": "fluid",
+        "mobileRows": 1,
+        "desktopRows": 1,
+        "rowScale": 0.0215,
+        "blocks": []
+      }
+    }
+  ]
+}

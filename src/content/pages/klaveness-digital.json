@@ -1,0 +1,3809 @@
+{
+  "title": "Klaveness Digital — Klaveness Brands",
+  "sections": [
+    {
+      "id": "6847a0305122da6a9b96b750",
+      "theme": "",
+      "height": "medium",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "fullBleed": true,
+      "layout": {
+        "kind": "fluid",
+        "mobileRows": 14,
+        "desktopRows": 10,
+        "rowScale": 0.0215,
+        "blocks": [
+          {
+            "desktop": [
+              1,
+              2,
+              11,
+              26
+            ],
+            "mobile": [
+              2,
+              2,
+              8,
+              10
+            ],
+            "z": 3,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "10f8b9e3627b3eec364b",
+              "src": "/images/klaveness-digital/pattern-hor.png",
+              "alt": "",
+              "width": 1757,
+              "height": 879,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              3,
+              4,
+              9,
+              24
+            ],
+            "mobile": [
+              8,
+              2,
+              15,
+              10
+            ],
+            "z": 4,
+            "justify": "flex-start",
+            "align": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "abf4f1becb6e3394c993",
+              "html": "<h1 style=\"white-space:pre-wrap;\">Klaveness Digital<br>Brand Guide</h1><p style=\"white-space:pre-wrap;\">Last updated June 2025</p>"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "6847ae3d1896c23720ea0dfc",
+      "anchor": "elements",
+      "theme": "",
+      "background": "#691be4",
+      "height": "medium",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "fullBleed": true,
+      "layout": {
+        "kind": "fluid",
+        "mobileRows": 16,
+        "desktopRows": 9,
+        "rowScale": 0.0215,
+        "blocks": [
+          {
+            "desktop": [
+              1,
+              4,
+              3,
+              11
+            ],
+            "mobile": [
+              2,
+              2,
+              9,
+              10
+            ],
+            "z": 3,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "94960cc99c7610877f8d",
+              "html": "<h4 style=\"white-space:pre-wrap;\">Brand Elements</h4>"
+            }
+          },
+          {
+            "desktop": [
+              3,
+              4,
+              4,
+              7
+            ],
+            "mobile": [
+              9,
+              2,
+              15,
+              10
+            ],
+            "z": 5,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "fc9419fe5225691cdaac",
+              "src": "/images/klaveness-digital/divider-green.png",
+              "alt": "",
+              "width": 628,
+              "height": 10,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              1,
+              14,
+              10,
+              20
+            ],
+            "mobile": [
+              15,
+              2,
+              17,
+              10
+            ],
+            "z": 6,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "yui_3_17_2_1_1749543971918_4281",
+              "html": "<p class=\"sqsrte-large\" style=\"white-space:pre-wrap;\"><a href=\"#logo\" target=\"_blank\">Logo</a><br><a href=\"#typography\" target=\"_blank\">Typography</a></p><p class=\"sqsrte-large\" style=\"white-space:pre-wrap;\"><a href=\"#colors\" target=\"_blank\">Colors</a></p><p class=\"sqsrte-large\" style=\"white-space:pre-wrap;\"><a href=\"#Images\" target=\"_blank\">Images</a></p><p class=\"sqsrte-large\" style=\"white-space:pre-wrap;\"><a href=\"#templates\" target=\"_blank\">Templates</a></p><p class=\"sqsrte-large\" style=\"white-space:pre-wrap;\"><a href=\"#Graphic\" target=\"_blank\">Graphic Elements</a></p><p class=\"sqsrte-large\" style=\"white-space:pre-wrap;\"><a href=\"#patterns\" target=\"_blank\">Patterns</a></p>"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "6847a07b9dc0e239d0332b25",
+      "anchor": "logo",
+      "theme": "white",
+      "background": "#f0ece9",
+      "height": "custom",
+      "minHeight": "50vh",
+      "padTop": "calc(50vmax / 10)",
+      "padBottom": "calc(50vmax / 10)",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "fullBleed": true,
+      "layout": {
+        "kind": "fluid",
+        "mobileRows": 16,
+        "desktopRows": 7,
+        "rowScale": 0.0215,
+        "blocks": [
+          {
+            "desktop": [
+              1,
+              12,
+              4,
+              16
+            ],
+            "mobile": [
+              1,
+              2,
+              7,
+              10
+            ],
+            "z": 4,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "yui_3_17_2_1_1749523625313_10816",
+              "src": "/images/klaveness-digital/logo.png",
+              "alt": "",
+              "width": 314,
+              "height": 69,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              4,
+              4,
+              6,
+              24
+            ],
+            "mobile": [
+              8,
+              2,
+              15,
+              10
+            ],
+            "z": 3,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "b9ca346872eb3432a4bd",
+              "html": "<p style=\"white-space:pre-wrap;\">Symbol and company name are carefully put together and the should never be changed. We have collected all the logo versions here. Be sure to use the right format for the right channel. Print format uses pdf files, and digital surfaces uses &nbsp;png or svg files.</p>"
+            }
+          },
+          {
+            "desktop": [
+              6,
+              12,
+              8,
+              16
+            ],
+            "mobile": [
+              15,
+              2,
+              17,
+              6
+            ],
+            "z": 9,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "button",
+              "id": "fa45c8e0972e86363154",
+              "text": "Download the logo collection",
+              "href": "/s/kd-logo.zip",
+              "newTab": true,
+              "size": "small",
+              "variant": "tertiary",
+              "align": "center"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "6847a28710c84670483f8ced",
+      "theme": "white",
+      "height": "medium",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "fullBleed": true,
+      "layout": {
+        "kind": "fluid",
+        "mobileRows": 33,
+        "desktopRows": 17,
+        "rowScale": 0.0215,
+        "blocks": [
+          {
+            "desktop": [
+              1,
+              4,
+              2,
+              11
+            ],
+            "mobile": [
+              2,
+              2,
+              9,
+              10
+            ],
+            "z": 2,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "71bbe1e4b63bc238d787",
+              "html": "<h4 style=\"white-space:pre-wrap;\">Main Logo</h4>"
+            }
+          },
+          {
+            "desktop": [
+              2,
+              4,
+              3,
+              7
+            ],
+            "mobile": [
+              9,
+              2,
+              15,
+              10
+            ],
+            "z": 4,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "yui_3_17_2_1_1749523625313_13860",
+              "src": "/images/klaveness-digital/divider-green.png",
+              "alt": "",
+              "width": 628,
+              "height": 10,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              3,
+              4,
+              12,
+              10
+            ],
+            "mobile": [
+              15,
+              2,
+              22,
+              10
+            ],
+            "z": 3,
+            "justify": "flex-start",
+            "align": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "c9c68c5e2ef417bb349b",
+              "html": "<p style=\"white-space:pre-wrap;\">Logo is used in colors primarily on dark backgrounds. On light surfaces, the dark version of the main logo is used.</p><p style=\"white-space:pre-wrap;\">The main logo should as far as possible be placed in the left corner of the surface of where it is placed.</p><p style=\"white-space:pre-wrap;\">The main color logo should not be placed photos. Then only positive / negative logo should be used.</p>"
+            }
+          },
+          {
+            "desktop": [
+              12,
+              4,
+              14,
+              5
+            ],
+            "mobile": [
+              22,
+              2,
+              28,
+              10
+            ],
+            "z": 5,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "yui_3_17_2_1_1749523625313_32709",
+              "src": "/images/klaveness-digital/button-up.png",
+              "alt": "",
+              "width": 256,
+              "height": 256,
+              "href": "#elements",
+              "newTab": true,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              1,
+              12,
+              18,
+              24
+            ],
+            "mobile": [
+              28,
+              2,
+              34,
+              10
+            ],
+            "z": 3,
+            "justify": "flex-start",
+            "justifyMobile": "center",
+            "align": "flex-start",
+            "alignMobile": "center",
+            "block": {
+              "type": "image",
+              "id": "5eb517e30c35eb93a6e6",
+              "src": "/images/klaveness-digital/main-logo.png",
+              "alt": "",
+              "width": 1280,
+              "height": 1450,
+              "fluid": true,
+              "fit": "fit"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "684fc75ecf9cd44e84427dcb",
+      "anchor": "typography",
+      "theme": "black-bold",
+      "height": "custom",
+      "minHeight": "50vh",
+      "padTop": "calc(50vmax / 10)",
+      "padBottom": "calc(50vmax / 10)",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "fullBleed": true,
+      "layout": {
+        "kind": "fluid",
+        "mobileRows": 16,
+        "desktopRows": 9,
+        "rowScale": 0.0215,
+        "blocks": [
+          {
+            "desktop": [
+              1,
+              12,
+              4,
+              16
+            ],
+            "mobile": [
+              1,
+              2,
+              7,
+              10
+            ],
+            "z": 4,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "dc3f7ee2a7deec4ac3a2",
+              "src": "/images/klaveness-digital/typography.png",
+              "alt": "",
+              "width": 318,
+              "height": 69,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              4,
+              4,
+              8,
+              24
+            ],
+            "mobile": [
+              8,
+              2,
+              15,
+              10
+            ],
+            "z": 3,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "c68f7dea2a8e579cb9bc",
+              "html": "<p style=\"white-space:pre-wrap;\">Everett is the profile font for KD. Everett is designed by Nolan Paparelli from Switzerland. The profile uses two variants of this: Everett Sans in Regular, for headings / displays, subtitles and quantity text. Everett Mono is used as a display font for eg. tags \"bubbles\" and as a supporting element to Everett Sans, its use should be limited.</p>"
+            }
+          },
+          {
+            "desktop": [
+              8,
+              12,
+              10,
+              16
+            ],
+            "mobile": [
+              15,
+              2,
+              17,
+              6
+            ],
+            "z": 9,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "button",
+              "id": "20cbe27f08a4d47d51cd",
+              "text": "Download the font collection",
+              "href": "/s/Everett_TTFs.zip",
+              "newTab": true,
+              "size": "small",
+              "variant": "tertiary",
+              "align": "center"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "684fc86cc856351a7d6599ea",
+      "theme": "white",
+      "height": "medium",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "fullBleed": true,
+      "layout": {
+        "kind": "fluid",
+        "mobileRows": 33,
+        "desktopRows": 8,
+        "rowScale": 0.0215,
+        "blocks": [
+          {
+            "desktop": [
+              1,
+              4,
+              3,
+              11
+            ],
+            "mobile": [
+              2,
+              2,
+              9,
+              10
+            ],
+            "z": 2,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "7700b42c3a6c94a0bccb",
+              "html": "<h4 style=\"white-space:pre-wrap;\">Everett Sans (Primary font)</h4>"
+            }
+          },
+          {
+            "desktop": [
+              3,
+              4,
+              4,
+              7
+            ],
+            "mobile": [
+              9,
+              2,
+              15,
+              10
+            ],
+            "z": 4,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "87190e29f3c81488cd65",
+              "src": "/images/klaveness-digital/divider-green.png",
+              "alt": "",
+              "width": 628,
+              "height": 10,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              4,
+              4,
+              7,
+              10
+            ],
+            "mobile": [
+              15,
+              2,
+              22,
+              10
+            ],
+            "z": 3,
+            "justify": "flex-start",
+            "align": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "71ff9038c35021152971",
+              "html": "<p style=\"white-space:pre-wrap;\">This is KD's primary font and is used in most cases. Headlines, subtitles, quantity text and display text.</p>"
+            }
+          },
+          {
+            "desktop": [
+              7,
+              4,
+              9,
+              5
+            ],
+            "mobile": [
+              22,
+              2,
+              28,
+              10
+            ],
+            "z": 5,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "118adb4e3aef5f10f797",
+              "src": "/images/klaveness-digital/button-up.png",
+              "alt": "",
+              "width": 256,
+              "height": 256,
+              "href": "#elements",
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              1,
+              12,
+              9,
+              24
+            ],
+            "mobile": [
+              28,
+              2,
+              34,
+              10
+            ],
+            "z": 3,
+            "justify": "flex-start",
+            "justifyMobile": "center",
+            "align": "flex-start",
+            "alignMobile": "center",
+            "block": {
+              "type": "image",
+              "id": "797e4b1b815fe75959bd",
+              "src": "/images/klaveness-digital/everett-sans.png",
+              "alt": "",
+              "width": 2202,
+              "height": 666,
+              "fluid": true,
+              "fit": "fit"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "6847a63398cfa272ed02f894",
+      "theme": "white",
+      "height": "medium",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "fullBleed": true,
+      "layout": {
+        "kind": "fluid",
+        "mobileRows": 27,
+        "desktopRows": 8,
+        "rowScale": 0.0215,
+        "blocks": [
+          {
+            "desktop": [
+              1,
+              4,
+              3,
+              11
+            ],
+            "mobile": [
+              2,
+              2,
+              9,
+              10
+            ],
+            "z": 2,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "c20e7693df63ae385b07",
+              "html": "<h4 style=\"white-space:pre-wrap;\">Everett Mono (Secondary font)</h4>"
+            }
+          },
+          {
+            "desktop": [
+              3,
+              4,
+              4,
+              7
+            ],
+            "mobile": [
+              9,
+              2,
+              15,
+              10
+            ],
+            "z": 4,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "67cd77c8235e2a396c11",
+              "src": "/images/klaveness-digital/divider-green.png",
+              "alt": "",
+              "width": 628,
+              "height": 10,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              4,
+              4,
+              7,
+              10
+            ],
+            "mobile": [
+              15,
+              2,
+              22,
+              10
+            ],
+            "z": 3,
+            "justify": "flex-start",
+            "align": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "67cb3b29dda7e72abb52",
+              "html": "<p style=\"white-space:pre-wrap;\">This is KD's primary font and is used in most cases. Headlines, subtitles, quantity text and display text.</p>"
+            }
+          },
+          {
+            "desktop": [
+              1,
+              12,
+              9,
+              24
+            ],
+            "mobile": [
+              22,
+              2,
+              28,
+              10
+            ],
+            "z": 3,
+            "justify": "flex-start",
+            "justifyMobile": "center",
+            "align": "flex-start",
+            "alignMobile": "center",
+            "block": {
+              "type": "image",
+              "id": "0da9de14fbcd6e6a3b09",
+              "src": "/images/klaveness-digital/everett-mono.png",
+              "alt": "",
+              "width": 2202,
+              "height": 666,
+              "fluid": true,
+              "fit": "fit"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "6847a7852d1467374e87f7bc",
+      "theme": "white",
+      "height": "medium",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "fullBleed": true,
+      "layout": {
+        "kind": "fluid",
+        "mobileRows": 27,
+        "desktopRows": 9,
+        "rowScale": 0.0215,
+        "blocks": [
+          {
+            "desktop": [
+              1,
+              4,
+              3,
+              11
+            ],
+            "mobile": [
+              2,
+              2,
+              9,
+              10
+            ],
+            "z": 2,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "810715e0e079962dc0ca",
+              "html": "<h4 style=\"white-space:pre-wrap;\">Avenir (System font)</h4>"
+            }
+          },
+          {
+            "desktop": [
+              3,
+              4,
+              4,
+              7
+            ],
+            "mobile": [
+              9,
+              2,
+              15,
+              10
+            ],
+            "z": 4,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "c9aaf5f1e27694147783",
+              "src": "/images/klaveness-digital/divider-green.png",
+              "alt": "",
+              "width": 628,
+              "height": 10,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              4,
+              4,
+              8,
+              10
+            ],
+            "mobile": [
+              15,
+              2,
+              22,
+              10
+            ],
+            "z": 3,
+            "justify": "flex-start",
+            "align": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "0669063a78285cf84c4e",
+              "html": "<p style=\"white-space:pre-wrap;\">System fonts are used on digital surfaces where the main font Everett cannot be used. Examples are in PPT / Keynote and in Word / Pages templates.&nbsp;</p>"
+            }
+          },
+          {
+            "desktop": [
+              1,
+              12,
+              10,
+              24
+            ],
+            "mobile": [
+              22,
+              2,
+              28,
+              10
+            ],
+            "z": 3,
+            "justify": "flex-start",
+            "justifyMobile": "center",
+            "align": "flex-start",
+            "alignMobile": "center",
+            "block": {
+              "type": "image",
+              "id": "e28c25028da475f329cf",
+              "src": "/images/klaveness-digital/avenir.png",
+              "alt": "",
+              "width": 2202,
+              "height": 666,
+              "fluid": true,
+              "fit": "fit"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "6847a7c3943e521a8948175e",
+      "anchor": "colors",
+      "theme": "black-bold",
+      "height": "custom",
+      "minHeight": "50vh",
+      "padTop": "calc(50vmax / 10)",
+      "padBottom": "calc(50vmax / 10)",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "fullBleed": true,
+      "layout": {
+        "kind": "fluid",
+        "mobileRows": 16,
+        "desktopRows": 7,
+        "rowScale": 0.0215,
+        "blocks": [
+          {
+            "desktop": [
+              1,
+              12,
+              4,
+              16
+            ],
+            "mobile": [
+              1,
+              2,
+              7,
+              10
+            ],
+            "z": 4,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "d1581db683e4ca3189be",
+              "src": "/images/klaveness-digital/colors-title.png",
+              "alt": "",
+              "width": 628,
+              "height": 138,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              4,
+              8,
+              6,
+              20
+            ],
+            "mobile": [
+              8,
+              2,
+              15,
+              10
+            ],
+            "z": 3,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "672e263c21629a36c611",
+              "html": "<p style=\"text-align:center;white-space:pre-wrap;\">The profile colors should always be used with the color codes given here. Be conscious when using colors. Provide satisfactory contrast and size of text and elements.</p>"
+            }
+          },
+          {
+            "desktop": [
+              6,
+              12,
+              8,
+              16
+            ],
+            "mobile": [
+              15,
+              2,
+              17,
+              6
+            ],
+            "z": 9,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "button",
+              "id": "6e2c8dc386a8ee9aae85",
+              "text": "Download the palette",
+              "href": "/s/Brand-Colors.pdf",
+              "newTab": true,
+              "size": "small",
+              "variant": "tertiary",
+              "align": "center"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "6847a8d9528d362a38c1347d",
+      "theme": "white",
+      "height": "medium",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "fullBleed": true,
+      "layout": {
+        "kind": "fluid",
+        "mobileRows": 263,
+        "desktopRows": 59,
+        "rowScale": 0.0215,
+        "blocks": [
+          {
+            "desktop": [
+              1,
+              4,
+              3,
+              9
+            ],
+            "mobile": [
+              2,
+              2,
+              8,
+              10
+            ],
+            "z": 2,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "6847a8d925165c6485424ee0",
+              "html": "<h4 style=\"white-space:pre-wrap;\">Colors palette</h4>"
+            }
+          },
+          {
+            "desktop": [
+              3,
+              4,
+              4,
+              7
+            ],
+            "mobile": [
+              8,
+              2,
+              14,
+              10
+            ],
+            "z": 5,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "d884858ffde2b67d1510",
+              "src": "/images/klaveness-digital/divider-green.png",
+              "alt": "",
+              "width": 628,
+              "height": 10,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              4,
+              4,
+              8,
+              10
+            ],
+            "mobile": [
+              14,
+              2,
+              20,
+              10
+            ],
+            "z": 3,
+            "justify": "flex-start",
+            "align": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "553156d1ce6c1fd4a003",
+              "html": "<p style=\"white-space:pre-wrap;\">The colors are chosen to form the identity of KD. The colors are chosen to give the identity a modern expression that is particularly suitable on digital surfaces.</p>"
+            }
+          },
+          {
+            "desktop": [
+              8,
+              4,
+              10,
+              5
+            ],
+            "mobile": [
+              20,
+              2,
+              26,
+              10
+            ],
+            "z": 6,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "ff058c7de7c73a15671d",
+              "src": "/images/klaveness-digital/button-up.png",
+              "alt": "",
+              "width": 256,
+              "height": 256,
+              "href": "#elements",
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              1,
+              12,
+              3,
+              17
+            ],
+            "mobile": [
+              26,
+              2,
+              32,
+              10
+            ],
+            "z": 4,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "ec474191b479baa5d2f2",
+              "html": "<h4 style=\"white-space:pre-wrap;\">Deep Sea Blue</h4>"
+            }
+          },
+          {
+            "desktop": [
+              3,
+              12,
+              10,
+              17
+            ],
+            "mobile": [
+              35,
+              2,
+              46,
+              10
+            ],
+            "z": 5,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "6847a8d91030267fe78c327e",
+              "src": "/images/klaveness-digital/deep-sea-blue.png",
+              "alt": "",
+              "width": 512,
+              "height": 512,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              10,
+              12,
+              15,
+              14
+            ],
+            "mobile": [
+              46,
+              2,
+              52,
+              10
+            ],
+            "z": 6,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "6847a8d976d87d12b6bd4b13",
+              "html": "<p style=\"white-space:pre-wrap;\"><strong>HEX</strong></p><p style=\"white-space:pre-wrap;\"><strong>RGB</strong></p><p style=\"white-space:pre-wrap;\"><strong>CMYK</strong></p><p style=\"white-space:pre-wrap;\"><strong>PMS</strong></p>"
+            }
+          },
+          {
+            "desktop": [
+              10,
+              14,
+              15,
+              17
+            ],
+            "mobile": [
+              52,
+              2,
+              58,
+              10
+            ],
+            "z": 7,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "c4b19bfdec81c7687d9b",
+              "html": "<p style=\"white-space:pre-wrap;\">#0a0221</p><p style=\"white-space:pre-wrap;\">10, 2, 33</p><p style=\"white-space:pre-wrap;\">100, 90, 40, 70</p><p style=\"white-space:pre-wrap;\">2767 U</p>"
+            }
+          },
+          {
+            "desktop": [
+              16,
+              12,
+              18,
+              17
+            ],
+            "mobile": [
+              58,
+              2,
+              64,
+              10
+            ],
+            "z": 5,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "2fc1e5d62275c6083ad0",
+              "html": "<h4 style=\"white-space:pre-wrap;\">Terminal Green</h4>"
+            }
+          },
+          {
+            "desktop": [
+              18,
+              12,
+              25,
+              17
+            ],
+            "mobile": [
+              64,
+              2,
+              75,
+              10
+            ],
+            "z": 6,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "7b47cd3fa364342166b1",
+              "src": "/images/klaveness-digital/terminal-green.png",
+              "alt": "",
+              "width": 512,
+              "height": 512,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              25,
+              12,
+              30,
+              14
+            ],
+            "mobile": [
+              75,
+              2,
+              81,
+              10
+            ],
+            "z": 7,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "f571c8a88a6deca6546d",
+              "html": "<p style=\"white-space:pre-wrap;\"><strong>HEX</strong></p><p style=\"white-space:pre-wrap;\"><strong>RGB</strong></p><p style=\"white-space:pre-wrap;\"><strong>CMYK</strong></p><p style=\"white-space:pre-wrap;\"><strong>PMS</strong></p>"
+            }
+          },
+          {
+            "desktop": [
+              25,
+              14,
+              30,
+              17
+            ],
+            "mobile": [
+              81,
+              2,
+              87,
+              10
+            ],
+            "z": 8,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "e4f34d6415e8f212dc93",
+              "html": "<p style=\"white-space:pre-wrap;\">#12d875</p><p style=\"white-space:pre-wrap;\">18, 216, 117</p><p style=\"white-space:pre-wrap;\">65, 0, 70, 0</p><p style=\"white-space:pre-wrap;\">7480 U</p>"
+            }
+          },
+          {
+            "desktop": [
+              31,
+              12,
+              33,
+              17
+            ],
+            "mobile": [
+              87,
+              2,
+              93,
+              10
+            ],
+            "z": 6,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "1fd8b46b85654d78b63c",
+              "html": "<h4 style=\"white-space:pre-wrap;\">Sustainable Green</h4>"
+            }
+          },
+          {
+            "desktop": [
+              33,
+              12,
+              40,
+              17
+            ],
+            "mobile": [
+              93,
+              2,
+              104,
+              10
+            ],
+            "z": 7,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "43e92bd39f08383994ad",
+              "src": "/images/klaveness-digital/sustainable-green.png",
+              "alt": "",
+              "width": 512,
+              "height": 512,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              40,
+              12,
+              45,
+              14
+            ],
+            "mobile": [
+              104,
+              2,
+              110,
+              10
+            ],
+            "z": 8,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "aa6aa301151570988e34",
+              "html": "<p style=\"white-space:pre-wrap;\"><strong>HEX</strong></p><p style=\"white-space:pre-wrap;\"><strong>RGB</strong></p><p style=\"white-space:pre-wrap;\"><strong>CMYK</strong></p><p style=\"white-space:pre-wrap;\"><strong>PMS</strong></p>"
+            }
+          },
+          {
+            "desktop": [
+              55,
+              12,
+              60,
+              14
+            ],
+            "mobile": [
+              110,
+              2,
+              116,
+              10
+            ],
+            "z": 9,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "ce1e9789a9cb1b001308",
+              "html": "<p style=\"white-space:pre-wrap;\"><strong>HEX</strong></p><p style=\"white-space:pre-wrap;\"><strong>RGB</strong></p><p style=\"white-space:pre-wrap;\"><strong>CMYK</strong></p><p style=\"white-space:pre-wrap;\"><strong>PMS</strong></p>"
+            }
+          },
+          {
+            "desktop": [
+              40,
+              14,
+              45,
+              17
+            ],
+            "mobile": [
+              116,
+              2,
+              122,
+              10
+            ],
+            "z": 9,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "1f4b7077fdb9e10ba57e",
+              "html": "<p style=\"white-space:pre-wrap;\">#00321f</p><p style=\"white-space:pre-wrap;\">0, 50, 31</p><p style=\"white-space:pre-wrap;\">95, 55, 75, 55</p><p style=\"white-space:pre-wrap;\">627 U</p>"
+            }
+          },
+          {
+            "desktop": [
+              1,
+              19,
+              3,
+              24
+            ],
+            "mobile": [
+              122,
+              2,
+              128,
+              10
+            ],
+            "z": 5,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "3523ea1e0cd306050a3f",
+              "html": "<h4 style=\"white-space:pre-wrap;\">Binary Purple</h4>"
+            }
+          },
+          {
+            "desktop": [
+              3,
+              19,
+              10,
+              24
+            ],
+            "mobile": [
+              128,
+              2,
+              139,
+              10
+            ],
+            "z": 7,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "6847a8d9105076711b51061e",
+              "src": "/images/klaveness-digital/binary-purple.png",
+              "alt": "",
+              "width": 512,
+              "height": 512,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              10,
+              19,
+              15,
+              21
+            ],
+            "mobile": [
+              139,
+              2,
+              145,
+              10
+            ],
+            "z": 7,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "d1235e1b5ea5cc92f9c4",
+              "html": "<p style=\"white-space:pre-wrap;\"><strong>HEX</strong></p><p style=\"white-space:pre-wrap;\"><strong>RGB</strong></p><p style=\"white-space:pre-wrap;\"><strong>CMYK</strong></p><p style=\"white-space:pre-wrap;\"><strong>PMS</strong></p>"
+            }
+          },
+          {
+            "desktop": [
+              25,
+              19,
+              30,
+              21
+            ],
+            "mobile": [
+              145,
+              2,
+              151,
+              10
+            ],
+            "z": 8,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "4b8ba8751e7e91225801",
+              "html": "<p style=\"white-space:pre-wrap;\"><strong>HEX</strong></p><p style=\"white-space:pre-wrap;\"><strong>RGB</strong></p><p style=\"white-space:pre-wrap;\"><strong>CMYK</strong></p><p style=\"white-space:pre-wrap;\"><strong>PMS</strong></p>"
+            }
+          },
+          {
+            "desktop": [
+              10,
+              21,
+              15,
+              24
+            ],
+            "mobile": [
+              151,
+              2,
+              157,
+              10
+            ],
+            "z": 8,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "ad69121847b8676891ba",
+              "html": "<p style=\"white-space:pre-wrap;\">#691be4</p><p style=\"white-space:pre-wrap;\">105, 27, 228</p><p style=\"white-space:pre-wrap;\">80, 80, 0, 0</p><p style=\"white-space:pre-wrap;\">2736 U</p>"
+            }
+          },
+          {
+            "desktop": [
+              16,
+              19,
+              18,
+              24
+            ],
+            "mobile": [
+              157,
+              2,
+              163,
+              10
+            ],
+            "z": 6,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "6f9068fceefe44403e81",
+              "html": "<h4 style=\"white-space:pre-wrap;\">AI Orange</h4>"
+            }
+          },
+          {
+            "desktop": [
+              46,
+              12,
+              48,
+              17
+            ],
+            "mobile": [
+              166,
+              2,
+              172,
+              10
+            ],
+            "z": 7,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "ba3140a13c07d6067dc2",
+              "html": "<h4 style=\"white-space:pre-wrap;\">Mystery Black</h4>"
+            }
+          },
+          {
+            "desktop": [
+              48,
+              12,
+              55,
+              17
+            ],
+            "mobile": [
+              172,
+              2,
+              183,
+              10
+            ],
+            "z": 8,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "05357327d99da05b6263",
+              "src": "/images/klaveness-digital/mystery-black.png",
+              "alt": "",
+              "width": 512,
+              "height": 512,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              55,
+              14,
+              60,
+              17
+            ],
+            "mobile": [
+              183,
+              2,
+              189,
+              10
+            ],
+            "z": 10,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "aeab010ebe715b11e403",
+              "html": "<p style=\"white-space:pre-wrap;\">#151416</p><p style=\"white-space:pre-wrap;\">21, 20, 22</p><p style=\"white-space:pre-wrap;\">90, 75, 55, 75</p><p style=\"white-space:pre-wrap;\">433 U</p>"
+            }
+          },
+          {
+            "desktop": [
+              18,
+              19,
+              25,
+              24
+            ],
+            "mobile": [
+              189,
+              2,
+              200,
+              10
+            ],
+            "z": 8,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "d60f718b8d8242a4f839",
+              "src": "/images/klaveness-digital/ai-orange.png",
+              "alt": "",
+              "width": 512,
+              "height": 512,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              33,
+              19,
+              40,
+              24
+            ],
+            "mobile": [
+              200,
+              2,
+              211,
+              10
+            ],
+            "z": 9,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "ec69d2b921211da51d59",
+              "src": "/images/klaveness-digital/human.png",
+              "alt": "",
+              "width": 512,
+              "height": 512,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              40,
+              19,
+              45,
+              21
+            ],
+            "mobile": [
+              211,
+              2,
+              217,
+              10
+            ],
+            "z": 9,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "f05cbe4ce6025f9ba091",
+              "html": "<p style=\"white-space:pre-wrap;\"><strong>HEX</strong></p><p style=\"white-space:pre-wrap;\"><strong>RGB</strong></p><p style=\"white-space:pre-wrap;\"><strong>CMYK</strong></p><p style=\"white-space:pre-wrap;\"><strong>PMS</strong></p>"
+            }
+          },
+          {
+            "desktop": [
+              55,
+              19,
+              60,
+              21
+            ],
+            "mobile": [
+              217,
+              2,
+              223,
+              10
+            ],
+            "z": 10,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "4679080c8ec636be2e9b",
+              "html": "<p style=\"white-space:pre-wrap;\"><strong>HEX</strong></p><p style=\"white-space:pre-wrap;\"><strong>RGB</strong></p><p style=\"white-space:pre-wrap;\"><strong>CMYK</strong></p><p style=\"white-space:pre-wrap;\"><strong>PMS</strong></p>"
+            }
+          },
+          {
+            "desktop": [
+              25,
+              21,
+              30,
+              24
+            ],
+            "mobile": [
+              223,
+              2,
+              229,
+              10
+            ],
+            "z": 9,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "3a490f51c5fa01f22717",
+              "html": "<p style=\"white-space:pre-wrap;\">#ff7606</p><p style=\"white-space:pre-wrap;\">255, 118, 6</p><p style=\"white-space:pre-wrap;\">0, 60, 100, 0</p><p style=\"white-space:pre-wrap;\">151 U</p>"
+            }
+          },
+          {
+            "desktop": [
+              31,
+              19,
+              33,
+              24
+            ],
+            "mobile": [
+              229,
+              2,
+              235,
+              10
+            ],
+            "z": 7,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "3c3c36d5b3f5c3fad690",
+              "html": "<h4 style=\"white-space:pre-wrap;\">Human</h4>"
+            }
+          },
+          {
+            "desktop": [
+              40,
+              21,
+              45,
+              24
+            ],
+            "mobile": [
+              235,
+              2,
+              241,
+              10
+            ],
+            "z": 10,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "08278e9cda997f86f3f9",
+              "html": "<p style=\"white-space:pre-wrap;\">#dbd3cc</p><p style=\"white-space:pre-wrap;\">219, 211, 204</p><p style=\"white-space:pre-wrap;\">15, 15, 15, 0</p><p style=\"white-space:pre-wrap;\">7527 U</p>"
+            }
+          },
+          {
+            "desktop": [
+              46,
+              19,
+              48,
+              24
+            ],
+            "mobile": [
+              241,
+              2,
+              247,
+              10
+            ],
+            "z": 8,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "f5bdf9fd11b50fab8dd4",
+              "html": "<h4 style=\"white-space:pre-wrap;\">Morning Mist</h4>"
+            }
+          },
+          {
+            "desktop": [
+              48,
+              19,
+              55,
+              24
+            ],
+            "mobile": [
+              247,
+              2,
+              258,
+              10
+            ],
+            "z": 10,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "168813d64ce3a924bb79",
+              "src": "/images/klaveness-digital/morning-mist.png",
+              "alt": "",
+              "width": 512,
+              "height": 512,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              55,
+              21,
+              60,
+              24
+            ],
+            "mobile": [
+              258,
+              2,
+              264,
+              10
+            ],
+            "z": 11,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "1e929e19dd6edd65d48c",
+              "html": "<p style=\"white-space:pre-wrap;\">#d5d6dd</p><p style=\"white-space:pre-wrap;\">213, 214, 221</p><p style=\"white-space:pre-wrap;\">15, 10, 5, 5</p><p style=\"white-space:pre-wrap;\">427 U</p>"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "68490019c9c562307ea551b7",
+      "theme": "white",
+      "height": "medium",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "fullBleed": true,
+      "layout": {
+        "kind": "fluid",
+        "mobileRows": 37,
+        "desktopRows": 18,
+        "rowScale": 0.0215,
+        "blocks": [
+          {
+            "desktop": [
+              1,
+              4,
+              3,
+              9
+            ],
+            "mobile": [
+              2,
+              2,
+              8,
+              10
+            ],
+            "z": 2,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "6dd3ca61e80b9ca9bfa9",
+              "html": "<h4 style=\"white-space:pre-wrap;\">Color Use</h4>"
+            }
+          },
+          {
+            "desktop": [
+              3,
+              4,
+              4,
+              7
+            ],
+            "mobile": [
+              8,
+              2,
+              14,
+              10
+            ],
+            "z": 5,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "90b63e6fe0c8b821d8cc",
+              "src": "/images/klaveness-digital/divider-green.png",
+              "alt": "",
+              "width": 628,
+              "height": 10,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              4,
+              4,
+              10,
+              10
+            ],
+            "mobile": [
+              14,
+              2,
+              20,
+              10
+            ],
+            "z": 3,
+            "justify": "flex-start",
+            "align": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "a64a462986f4b18c42e5",
+              "html": "<p style=\"white-space:pre-wrap;\">Although there will be a lot of white in the profile, it is the Deep Sea Blue color that is bearing and can be combined with all the colors in the palette. The color Sustainable Green works well as a background color and stands well in combination with Terminal Green in the palette.</p>"
+            }
+          },
+          {
+            "desktop": [
+              10,
+              4,
+              12,
+              5
+            ],
+            "mobile": [
+              20,
+              2,
+              26,
+              10
+            ],
+            "z": 6,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "ee590e38139e9e05b8d6",
+              "src": "/images/klaveness-digital/button-up.png",
+              "alt": "",
+              "width": 256,
+              "height": 256,
+              "href": "#elements",
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              1,
+              12,
+              19,
+              24
+            ],
+            "mobile": [
+              26,
+              2,
+              32,
+              10
+            ],
+            "z": 7,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "yui_3_17_2_1_1749611410494_8235",
+              "src": "/images/klaveness-digital/color-use.png",
+              "alt": "",
+              "width": 2304,
+              "height": 2270,
+              "fluid": true,
+              "fit": "fit"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "6847b08fa2b3784ed903e2d8",
+      "anchor": "images",
+      "theme": "black-bold",
+      "height": "custom",
+      "minHeight": "50vh",
+      "padTop": "calc(50vmax / 10)",
+      "padBottom": "calc(50vmax / 10)",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "fullBleed": true,
+      "layout": {
+        "kind": "fluid",
+        "mobileRows": 16,
+        "desktopRows": 8,
+        "rowScale": 0.0215,
+        "blocks": [
+          {
+            "desktop": [
+              1,
+              12,
+              4,
+              16
+            ],
+            "mobile": [
+              1,
+              2,
+              7,
+              10
+            ],
+            "z": 4,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "736adfb436fc5c31fa4c",
+              "src": "/images/klaveness-digital/images-title.png",
+              "alt": "",
+              "width": 628,
+              "height": 138,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              4,
+              8,
+              6,
+              20
+            ],
+            "mobile": [
+              8,
+              2,
+              15,
+              10
+            ],
+            "z": 3,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "d20e9cef374b2e7ac03b",
+              "html": "<p style=\"text-align:center;white-space:pre-wrap;\">Photo is a key element of the profile and should be chosen carefully. A good combination of photos of people and situations is important to create variety and provide a picture of the people you meet in KD.</p>"
+            }
+          },
+          {
+            "desktop": [
+              7,
+              12,
+              9,
+              16
+            ],
+            "mobile": [
+              15,
+              2,
+              17,
+              6
+            ],
+            "z": 9,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "button",
+              "id": "ea16c4bd356489cfae0d",
+              "text": "Access the image library",
+              "href": "https://torvaldklaveness.sharepoint.com/:u:/s/ImageLibrary/ESeEMEBD3zJGl_ycD63DIisBzSuAK8Gk_HSR97d_s4DQmA?e=GoWg3M",
+              "newTab": true,
+              "size": "small",
+              "variant": "tertiary",
+              "align": "center"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "6847b10ecafdce16eb8333ca",
+      "theme": "white",
+      "height": "medium",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "fullBleed": true,
+      "layout": {
+        "kind": "fluid",
+        "mobileRows": 54,
+        "desktopRows": 39,
+        "rowScale": 0.0215,
+        "blocks": [
+          {
+            "desktop": [
+              1,
+              12,
+              18,
+              24
+            ],
+            "mobile": [
+              1,
+              2,
+              6,
+              7
+            ],
+            "z": 1,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "07a83df60b9ed5cd52eb",
+              "src": "/images/klaveness-digital/company-01.jpg",
+              "alt": "",
+              "width": 2500,
+              "height": 1667,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              18,
+              12,
+              26,
+              16
+            ],
+            "mobile": [
+              6,
+              5,
+              11,
+              10
+            ],
+            "z": 3,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "f955ffcb86dbeaff5cbe",
+              "src": "/images/klaveness-digital/company-03.png",
+              "alt": "",
+              "width": 1072,
+              "height": 1376,
+              "fluid": true,
+              "fit": "fill"
+            }
+          },
+          {
+            "desktop": [
+              28,
+              4,
+              39,
+              15
+            ],
+            "mobile": [
+              11,
+              5,
+              16,
+              10
+            ],
+            "z": 3,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "51ddf78dc6832b317432",
+              "src": "/images/klaveness-digital/dsc1847.jpg",
+              "alt": "",
+              "width": 2500,
+              "height": 1667,
+              "fluid": true,
+              "fit": "fill"
+            }
+          },
+          {
+            "desktop": [
+              18,
+              20,
+              26,
+              24
+            ],
+            "mobile": [
+              16,
+              5,
+              21,
+              10
+            ],
+            "z": 4,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "0efd74ed0fb3e0972687",
+              "src": "/images/klaveness-digital/elmquist-tony.jpg",
+              "alt": "",
+              "width": 2500,
+              "height": 3125,
+              "fluid": true,
+              "fit": "fill"
+            }
+          },
+          {
+            "desktop": [
+              28,
+              18,
+              40,
+              24
+            ],
+            "mobile": [
+              21,
+              5,
+              26,
+              10
+            ],
+            "z": 4,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "b5899ea74f2d94a782cd",
+              "src": "/images/klaveness-digital/guimaraes-rafael.jpg",
+              "alt": "",
+              "width": 2500,
+              "height": 3125,
+              "fluid": true,
+              "fit": "fill"
+            }
+          },
+          {
+            "desktop": [
+              18,
+              4,
+              26,
+              8
+            ],
+            "mobile": [
+              26,
+              5,
+              31,
+              10
+            ],
+            "z": 2,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "c68fe34bade5bfe48c2d",
+              "src": "/images/klaveness-digital/company-02.png",
+              "alt": "",
+              "width": 1072,
+              "height": 1376,
+              "fluid": true,
+              "fit": "fill"
+            }
+          },
+          {
+            "desktop": [
+              1,
+              4,
+              4,
+              9
+            ],
+            "mobile": [
+              31,
+              2,
+              37,
+              10
+            ],
+            "z": 3,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "20825c2a27f0c3f990c0",
+              "html": "<h3 style=\"white-space:pre-wrap;\">Company <br>(Primary style)</h3>"
+            }
+          },
+          {
+            "desktop": [
+              4,
+              4,
+              5,
+              7
+            ],
+            "mobile": [
+              37,
+              2,
+              43,
+              10
+            ],
+            "z": 6,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "a0571dfa8a0ad195fa0b",
+              "src": "/images/klaveness-digital/divider-green.png",
+              "alt": "",
+              "width": 628,
+              "height": 10,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              5,
+              4,
+              8,
+              10
+            ],
+            "mobile": [
+              43,
+              2,
+              49,
+              10
+            ],
+            "z": 4,
+            "justify": "flex-start",
+            "align": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "8b2582abcfe36f003891",
+              "html": "<p style=\"white-space:pre-wrap;\">This direction should focus on KD as a company and the people who work there.</p><p style=\"white-space:pre-wrap;\">Honest, documentary and warm.</p>"
+            }
+          },
+          {
+            "desktop": [
+              8,
+              4,
+              10,
+              5
+            ],
+            "mobile": [
+              49,
+              2,
+              55,
+              10
+            ],
+            "z": 7,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "aeb442ce6d6547975d6d",
+              "src": "/images/klaveness-digital/button-up.png",
+              "alt": "",
+              "width": 256,
+              "height": 256,
+              "href": "#elements",
+              "fluid": true,
+              "fit": "fit"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "6847e36f82db9c73c107001b",
+      "theme": "white",
+      "height": "medium",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "fullBleed": true,
+      "layout": {
+        "kind": "fluid",
+        "mobileRows": 63,
+        "desktopRows": 58,
+        "rowScale": 0.0215,
+        "blocks": [
+          {
+            "desktop": [
+              29,
+              15,
+              39,
+              24
+            ],
+            "mobile": [
+              2,
+              3,
+              12,
+              9
+            ],
+            "z": 0,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "301ecf3d2ebe182ab01b",
+              "src": "/images/klaveness-digital/06.png",
+              "alt": "",
+              "width": 1792,
+              "height": 1193,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              1,
+              12,
+              19,
+              24
+            ],
+            "mobile": [
+              1,
+              2,
+              6,
+              7
+            ],
+            "z": 1,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "a895d23876ef692614bd",
+              "src": "/images/klaveness-digital/09.png",
+              "alt": "",
+              "width": 2304,
+              "height": 1542,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              19,
+              4,
+              27,
+              13
+            ],
+            "mobile": [
+              10,
+              5,
+              15,
+              10
+            ],
+            "z": 2,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "87c63b6ad08dd35b2f16",
+              "src": "/images/klaveness-digital/07.png",
+              "alt": "",
+              "width": 1792,
+              "height": 1188,
+              "fluid": true,
+              "fit": "fill"
+            }
+          },
+          {
+            "desktop": [
+              50,
+              12,
+              59,
+              16
+            ],
+            "mobile": [
+              15,
+              5,
+              20,
+              10
+            ],
+            "z": 5,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "eb3b1e066103f10cb2eb",
+              "src": "/images/klaveness-digital/12.png",
+              "alt": "",
+              "width": 1024,
+              "height": 1275,
+              "fluid": true,
+              "fit": "fill"
+            }
+          },
+          {
+            "desktop": [
+              50,
+              20,
+              59,
+              24
+            ],
+            "mobile": [
+              20,
+              5,
+              25,
+              10
+            ],
+            "z": 6,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "b75dca7466a7c81795b2",
+              "src": "/images/klaveness-digital/13.png",
+              "alt": "",
+              "width": 1792,
+              "height": 2227,
+              "fluid": true,
+              "fit": "fill"
+            }
+          },
+          {
+            "desktop": [
+              29,
+              4,
+              48,
+              13
+            ],
+            "mobile": [
+              25,
+              5,
+              30,
+              10
+            ],
+            "z": 3,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "28a5fb0e794b174c4c76",
+              "src": "/images/klaveness-digital/13-2.png",
+              "alt": "",
+              "width": 1792,
+              "height": 2227,
+              "fluid": true,
+              "fit": "fill"
+            }
+          },
+          {
+            "desktop": [
+              50,
+              4,
+              59,
+              8
+            ],
+            "mobile": [
+              30,
+              5,
+              35,
+              10
+            ],
+            "z": 4,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "5fac7fbe1db6703bd442",
+              "src": "/images/klaveness-digital/11.png",
+              "alt": "",
+              "width": 1024,
+              "height": 1274,
+              "fluid": true,
+              "fit": "fill"
+            }
+          },
+          {
+            "desktop": [
+              19,
+              15,
+              27,
+              24
+            ],
+            "mobile": [
+              35,
+              5,
+              40,
+              10
+            ],
+            "z": 3,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "527b282f791deaa30d03",
+              "src": "/images/klaveness-digital/08.png",
+              "alt": "",
+              "width": 1792,
+              "height": 1188,
+              "fluid": true,
+              "fit": "fill"
+            }
+          },
+          {
+            "desktop": [
+              1,
+              4,
+              3,
+              9
+            ],
+            "mobile": [
+              40,
+              2,
+              46,
+              10
+            ],
+            "z": 3,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "bdfdaa260371791c9cbf",
+              "html": "<h3 style=\"white-space:pre-wrap;\">Industry</h3>"
+            }
+          },
+          {
+            "desktop": [
+              3,
+              4,
+              4,
+              7
+            ],
+            "mobile": [
+              46,
+              2,
+              52,
+              10
+            ],
+            "z": 6,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "40753ed80498231b0339",
+              "src": "/images/klaveness-digital/divider-green.png",
+              "alt": "",
+              "width": 628,
+              "height": 10,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              4,
+              4,
+              8,
+              10
+            ],
+            "mobile": [
+              52,
+              2,
+              58,
+              10
+            ],
+            "z": 4,
+            "justify": "flex-start",
+            "align": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "75f66ec5e4a9741e9477",
+              "html": "<p style=\"white-space:pre-wrap;\">This style should be focused on industry, people and situation. Cropped images that show details of the object, or drone images that capture the whole.</p><p style=\"white-space:pre-wrap;\">Detailed, technical, storytelling.</p>"
+            }
+          },
+          {
+            "desktop": [
+              8,
+              4,
+              10,
+              5
+            ],
+            "mobile": [
+              58,
+              2,
+              64,
+              10
+            ],
+            "z": 7,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "48851a50edea3fbf6029",
+              "src": "/images/klaveness-digital/button-up.png",
+              "alt": "",
+              "width": 256,
+              "height": 256,
+              "href": "#elements",
+              "fluid": true,
+              "fit": "fit"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "6847e609537f7b527fc0ed7a",
+      "anchor": "templates",
+      "theme": "black-bold",
+      "height": "custom",
+      "minHeight": "50vh",
+      "padTop": "calc(50vmax / 10)",
+      "padBottom": "calc(50vmax / 10)",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "fullBleed": true,
+      "layout": {
+        "kind": "fluid",
+        "mobileRows": 14,
+        "desktopRows": 5,
+        "rowScale": 0.0215,
+        "blocks": [
+          {
+            "desktop": [
+              1,
+              11,
+              4,
+              17
+            ],
+            "mobile": [
+              1,
+              2,
+              7,
+              10
+            ],
+            "z": 4,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "14693fb5394a4ba7c396",
+              "src": "/images/klaveness-digital/title-templates.png",
+              "alt": "",
+              "width": 936,
+              "height": 138,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              4,
+              8,
+              6,
+              20
+            ],
+            "mobile": [
+              8,
+              2,
+              15,
+              10
+            ],
+            "z": 3,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "62f0685a2e9f00079d74",
+              "html": "<p style=\"text-align:center;white-space:pre-wrap;\">Consistency in communication starts with the right tools.&nbsp;Use the templates as provided. They include correct fonts, colors, spacing, and logo placement. Avoid altering layouts, and always prioritize clarity and simplicity.</p>"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "684aa58b55c59767652328a2",
+      "theme": "white",
+      "background": "#f1ece9",
+      "height": "medium",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "fullBleed": true,
+      "layout": {
+        "kind": "fluid",
+        "mobileRows": 32,
+        "desktopRows": 12,
+        "rowScale": 0.0215,
+        "blocks": [
+          {
+            "desktop": [
+              1,
+              4,
+              4,
+              9
+            ],
+            "mobile": [
+              1,
+              2,
+              7,
+              10
+            ],
+            "z": 4,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "78ef17646bd153fc38a0",
+              "html": "<h3 style=\"white-space:pre-wrap;\">Powerpoint <br>Template</h3>"
+            }
+          },
+          {
+            "desktop": [
+              4,
+              4,
+              5,
+              7
+            ],
+            "mobile": [
+              7,
+              2,
+              13,
+              10
+            ],
+            "z": 7,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "d5dd44c007a8644e5bc3",
+              "src": "/images/klaveness-digital/divider-green.png",
+              "alt": "",
+              "width": 628,
+              "height": 10,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              5,
+              4,
+              8,
+              10
+            ],
+            "mobile": [
+              13,
+              2,
+              19,
+              10
+            ],
+            "z": 5,
+            "justify": "flex-start",
+            "align": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "c5eeeec7284745ab96b5",
+              "html": "<p style=\"white-space:pre-wrap;\">Our PowerPoint ensure every presentation and document reflects the Klaveness Digital brand.</p><p style=\"white-space:pre-wrap;\">Clear, professional, aligned.</p>"
+            }
+          },
+          {
+            "desktop": [
+              8,
+              4,
+              10,
+              8
+            ],
+            "mobile": [
+              19,
+              2,
+              21,
+              6
+            ],
+            "z": 10,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "button",
+              "id": "317d8cf9ed1bebdd6743",
+              "text": "Download the template",
+              "href": "/s/Klaveness_Digital_2025.potx",
+              "newTab": true,
+              "size": "small",
+              "variant": "tertiary",
+              "align": "left"
+            }
+          },
+          {
+            "desktop": [
+              11,
+              4,
+              13,
+              5
+            ],
+            "mobile": [
+              21,
+              2,
+              27,
+              10
+            ],
+            "z": 8,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "0cf44effd7a31c76720e",
+              "src": "/images/klaveness-digital/button-up.png",
+              "alt": "",
+              "width": 256,
+              "height": 256,
+              "href": "#elements",
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              1,
+              11,
+              13,
+              24
+            ],
+            "mobile": [
+              27,
+              2,
+              33,
+              10
+            ],
+            "z": 1,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "yui_3_17_2_1_1749722213724_2624",
+              "src": "/images/klaveness-digital/mockup-ppt.png",
+              "alt": "",
+              "width": 1920,
+              "height": 1080,
+              "fluid": true,
+              "fit": "fill"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "686b85bc3f4d7d0223855fc5",
+      "theme": "white",
+      "height": "medium",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "fullBleed": true,
+      "layout": {
+        "kind": "fluid",
+        "mobileRows": 32,
+        "desktopRows": 12,
+        "rowScale": 0.0215,
+        "blocks": [
+          {
+            "desktop": [
+              1,
+              4,
+              4,
+              9
+            ],
+            "mobile": [
+              1,
+              2,
+              7,
+              10
+            ],
+            "z": 4,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "8c0aebe158191d4727ad",
+              "html": "<h3 style=\"white-space:pre-wrap;\">Letterhead <br>Template</h3>"
+            }
+          },
+          {
+            "desktop": [
+              4,
+              4,
+              5,
+              7
+            ],
+            "mobile": [
+              7,
+              2,
+              13,
+              10
+            ],
+            "z": 7,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "7f009928bc1ad9bdcb41",
+              "src": "/images/klaveness-digital/divider-green.png",
+              "alt": "",
+              "width": 628,
+              "height": 10,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              5,
+              4,
+              7,
+              10
+            ],
+            "mobile": [
+              13,
+              2,
+              19,
+              10
+            ],
+            "z": 5,
+            "justify": "flex-start",
+            "align": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "56fad16e2e9cdce63e50",
+              "html": "<p style=\"white-space:pre-wrap;\">Our letterhead template ensures all written communication reflects the Klaveness Digital brand.</p><p style=\"white-space:pre-wrap;\">Consistent, formal, on-brand.</p>"
+            }
+          },
+          {
+            "desktop": [
+              7,
+              4,
+              9,
+              8
+            ],
+            "mobile": [
+              19,
+              2,
+              21,
+              6
+            ],
+            "z": 10,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "button",
+              "id": "944802b8f8ce8bed824c",
+              "text": "Download the template",
+              "href": "/s/KD-letterhead.dotx",
+              "newTab": true,
+              "size": "small",
+              "variant": "tertiary",
+              "align": "left"
+            }
+          },
+          {
+            "desktop": [
+              10,
+              4,
+              12,
+              5
+            ],
+            "mobile": [
+              21,
+              2,
+              27,
+              10
+            ],
+            "z": 8,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "b869552589b16e05e3e3",
+              "src": "/images/klaveness-digital/button-up.png",
+              "alt": "",
+              "width": 256,
+              "height": 256,
+              "href": "#elements",
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              1,
+              11,
+              13,
+              24
+            ],
+            "mobile": [
+              27,
+              2,
+              33,
+              10
+            ],
+            "z": 1,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "5d11a555203fd5f8ee8a",
+              "src": "/images/klaveness-digital/letterhead-mockup.png",
+              "alt": "",
+              "width": 1920,
+              "height": 1080,
+              "fluid": true,
+              "fit": "fill"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "684aa49f04baef0ab5d7fea7",
+      "anchor": "graphics",
+      "theme": "black-bold",
+      "height": "custom",
+      "minHeight": "50vh",
+      "padTop": "calc(50vmax / 10)",
+      "padBottom": "calc(50vmax / 10)",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "fullBleed": true,
+      "layout": {
+        "kind": "fluid",
+        "mobileRows": 14,
+        "desktopRows": 6,
+        "rowScale": 0.0215,
+        "blocks": [
+          {
+            "desktop": [
+              1,
+              11,
+              4,
+              17
+            ],
+            "mobile": [
+              1,
+              2,
+              7,
+              10
+            ],
+            "z": 4,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "aa1ea38d9c0a974c6d7c",
+              "src": "/images/klaveness-digital/graphic-elements-title.png",
+              "alt": "",
+              "width": 944,
+              "height": 138,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              4,
+              8,
+              7,
+              20
+            ],
+            "mobile": [
+              8,
+              2,
+              15,
+              10
+            ],
+            "z": 3,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "73e227164f36f7955259",
+              "html": "<p style=\"text-align:center;white-space:pre-wrap;\">The graphic elements are based on lines and circles - creating usable patterns and abstract shapes. The graphic elements can be used as a pattern / illustration in combination with the right color combinations.</p>"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "6847eb730e81416b3b3728e8",
+      "theme": "black-bold",
+      "background": "#00321f",
+      "height": "medium",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "fullBleed": true,
+      "layout": {
+        "kind": "fluid",
+        "mobileRows": 26,
+        "desktopRows": 10,
+        "rowScale": 0.0215,
+        "blocks": [
+          {
+            "desktop": [
+              8,
+              4,
+              11,
+              24
+            ],
+            "mobile": [
+              1,
+              2,
+              7,
+              10
+            ],
+            "z": 4,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "6e3bc658868c39d2ea13",
+              "src": "/images/klaveness-digital/icons.png",
+              "alt": "",
+              "width": 3072,
+              "height": 233,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              1,
+              4,
+              3,
+              9
+            ],
+            "mobile": [
+              7,
+              2,
+              13,
+              10
+            ],
+            "z": 4,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "77a41b6b596e959e789d",
+              "html": "<h4 style=\"white-space:pre-wrap;\">Icons</h4>"
+            }
+          },
+          {
+            "desktop": [
+              3,
+              4,
+              4,
+              7
+            ],
+            "mobile": [
+              13,
+              2,
+              19,
+              10
+            ],
+            "z": 7,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "6d99693e685a31193147",
+              "src": "/images/klaveness-digital/divider-green.png",
+              "alt": "",
+              "width": 628,
+              "height": 10,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              4,
+              4,
+              7,
+              10
+            ],
+            "mobile": [
+              19,
+              2,
+              25,
+              10
+            ],
+            "z": 5,
+            "justify": "flex-start",
+            "align": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "c454d8a440acd21370c3",
+              "html": "<p style=\"white-space:pre-wrap;\">The examples below show what the icons should look like, but a complete set of icons is not provided here. Icons are added here as they are produced.</p>"
+            }
+          },
+          {
+            "desktop": [
+              1,
+              21,
+              3,
+              24
+            ],
+            "mobile": [
+              25,
+              2,
+              27,
+              6
+            ],
+            "z": 8,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "button",
+              "id": "yui_3_17_2_1_1749543971918_2296",
+              "text": "Download",
+              "href": "/s/kd_icons.zip",
+              "newTab": true,
+              "size": "small",
+              "variant": "tertiary",
+              "align": "right"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "6847ede14de2a23f201a9626",
+      "theme": "black-bold",
+      "height": "small",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "fullBleed": true,
+      "layout": {
+        "kind": "fluid",
+        "mobileRows": 6,
+        "desktopRows": 3,
+        "rowScale": 0.0215,
+        "blocks": [
+          {
+            "desktop": [
+              1,
+              4,
+              4,
+              24
+            ],
+            "mobile": [
+              1,
+              2,
+              7,
+              10
+            ],
+            "z": 4,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "5f0198865ccdd4b6e942",
+              "src": "/images/klaveness-digital/numbers.png",
+              "alt": "",
+              "width": 3072,
+              "height": 188,
+              "fluid": true,
+              "fit": "fit"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "6847f059d2c1f27920a5cc7f",
+      "theme": "white",
+      "height": "medium",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "fullBleed": true,
+      "layout": {
+        "kind": "fluid",
+        "mobileRows": 12,
+        "desktopRows": 39,
+        "rowScale": 0.0215,
+        "blocks": [
+          {
+            "desktop": [
+              1,
+              4,
+              22,
+              24
+            ],
+            "mobile": [
+              1,
+              2,
+              7,
+              10
+            ],
+            "z": 1,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "yui_3_17_2_1_1749543971918_3330",
+              "src": "/images/klaveness-digital/mockup-signage.png",
+              "alt": "",
+              "width": 3072,
+              "height": 2048,
+              "fluid": true,
+              "fit": "fill"
+            }
+          },
+          {
+            "desktop": [
+              24,
+              4,
+              40,
+              24
+            ],
+            "mobile": [
+              7,
+              2,
+              13,
+              10
+            ],
+            "z": 2,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "yui_3_17_2_1_1749543971918_6348",
+              "src": "/images/klaveness-digital/business-card-mockup.png",
+              "alt": "",
+              "width": 4000,
+              "height": 2194,
+              "fluid": true,
+              "fit": "fill"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "6847ffc024bff809871f5d9a",
+      "anchor": "patterns",
+      "theme": "black-bold",
+      "height": "medium",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "fullBleed": true,
+      "layout": {
+        "kind": "fluid",
+        "mobileRows": 26,
+        "desktopRows": 9,
+        "rowScale": 0.0215,
+        "blocks": [
+          {
+            "desktop": [
+              1,
+              4,
+              3,
+              9
+            ],
+            "mobile": [
+              1,
+              2,
+              7,
+              10
+            ],
+            "z": 1,
+            "justify": "center",
+            "justifyMobile": "flex-start",
+            "align": "center",
+            "alignMobile": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "12cad4ed8775e227be11",
+              "html": "<h4 style=\"white-space:pre-wrap;\">Patterns</h4>"
+            }
+          },
+          {
+            "desktop": [
+              3,
+              4,
+              4,
+              7
+            ],
+            "mobile": [
+              7,
+              2,
+              13,
+              10
+            ],
+            "z": 3,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "f59b80452a8cbd91b57a",
+              "src": "/images/klaveness-digital/divider-green.png",
+              "alt": "",
+              "width": 628,
+              "height": 10,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              4,
+              4,
+              10,
+              10
+            ],
+            "mobile": [
+              13,
+              2,
+              19,
+              10
+            ],
+            "z": 2,
+            "justify": "flex-start",
+            "align": "flex-start",
+            "block": {
+              "type": "text",
+              "id": "322a9fadc872e5fd80eb",
+              "html": "<p style=\"white-space:pre-wrap;\">Patterns are used as subtle background elements to support the visual identity of KD. They should be used sparingly, with low contrast, to enhance layouts without distracting from core content. Patterns help add texture and reinforce brand recognition across digital and print materials.</p>"
+            }
+          },
+          {
+            "desktop": [
+              1,
+              11,
+              10,
+              22
+            ],
+            "mobile": [
+              19,
+              2,
+              25,
+              10
+            ],
+            "z": 4,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "yui_3_17_2_1_1749611410494_3133",
+              "src": "/images/klaveness-digital/patterns-dots-2-1-purple.png",
+              "alt": "",
+              "width": 4041,
+              "height": 2045,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              1,
+              21,
+              3,
+              24
+            ],
+            "mobile": [
+              25,
+              2,
+              27,
+              6
+            ],
+            "z": 5,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "button",
+              "id": "a4b9ca62fd56bfb7c772",
+              "text": "Download",
+              "href": "/s/kd-patterns.zip",
+              "newTab": true,
+              "size": "small",
+              "variant": "tertiary",
+              "align": "right"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "6848fa62d16d50761b8b7005",
+      "theme": "white",
+      "height": "custom",
+      "padTop": "calc(0vmax / 10)",
+      "padBottom": "calc(0vmax / 10)",
+      "contentWidth": "wide",
+      "vAlign": "middle",
+      "hAlign": "center",
+      "backgroundWidth": "full-bleed",
+      "fullBleed": true,
+      "layout": {
+        "kind": "fluid",
+        "mobileRows": 24,
+        "desktopRows": 20,
+        "rowScale": 0.0215,
+        "blocks": [
+          {
+            "desktop": [
+              1,
+              1,
+              19,
+              27
+            ],
+            "mobile": [
+              1,
+              2,
+              7,
+              10
+            ],
+            "z": 1,
+            "justify": "flex-start",
+            "align": "flex-start",
+            "block": {
+              "type": "code",
+              "id": "yui_3_17_2_1_1749611410494_4239",
+              "html": "<div class=\"split-section\"> <div class=\"left-half\"> <p></p> </div> <div class=\"right-half\"> <p></p> </div> </div>",
+              "css": ".split-section {\n    display: flex;\n    height: 820px;\n    width: 100%;\n  }\n\n  .left-half,\n  .right-half {\n    flex: 1;\n    padding: 20px;\n    box-sizing: border-box;\n    height: 100%;\n  }\n\n  .left-half {\n    background-color: #F0ECE9;\n    color: #000;\n  }\n\n  .right-half {\n    background-color: #691BE4;\n    color: #fff;\n  }\n\n  @media (max-width: 768px) {\n    .split-section {\n      flex-direction: column;\n      height: auto;\n    }\n\n    .left-half,\n    .right-half {\n      width: 100%;\n      height: auto;\n    }\n  }\n.split-section {\n    display: flex;\n    height: 820px;\n    width: 100%;\n  }\n\n  .left-half,\n  .right-half {\n    flex: 1;\n    padding: 20px;\n    box-sizing: border-box;\n    height: 100%;\n  }\n\n  .left-half {\n    background-color: #F0ECE9;\n    color: #000;\n  }\n\n  .right-half {\n    background-color: #691BE4;\n    color: #fff;\n  }\n\n  @media (max-width: 768px) {\n    .split-section {\n      flex-direction: column;\n      height: auto;\n    }\n\n    .left-half,\n    .right-half {\n      width: 100%;\n      height: auto;\n    }\n  }"
+            }
+          },
+          {
+            "desktop": [
+              4,
+              4,
+              18,
+              12
+            ],
+            "mobile": [
+              7,
+              2,
+              13,
+              10
+            ],
+            "z": 2,
+            "justify": "flex-start",
+            "justifyMobile": "center",
+            "align": "flex-start",
+            "alignMobile": "center",
+            "block": {
+              "type": "image",
+              "id": "yui_3_17_2_1_1749611410494_5091",
+              "src": "/images/klaveness-digital/group-379.png",
+              "alt": "",
+              "width": 1350,
+              "height": 1376,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              4,
+              16,
+              18,
+              24
+            ],
+            "mobile": [
+              13,
+              2,
+              19,
+              10
+            ],
+            "z": 3,
+            "justify": "flex-start",
+            "justifyMobile": "center",
+            "align": "flex-start",
+            "alignMobile": "center",
+            "block": {
+              "type": "image",
+              "id": "ee59dcadb2e4d9bdabb7",
+              "src": "/images/klaveness-digital/group-303.png",
+              "alt": "",
+              "width": 1348,
+              "height": 1376,
+              "fluid": true,
+              "fit": "fit"
+            }
+          },
+          {
+            "desktop": [
+              19,
+              4,
+              21,
+              5
+            ],
+            "mobile": [
+              19,
+              2,
+              25,
+              10
+            ],
+            "z": 8,
+            "justify": "center",
+            "align": "center",
+            "block": {
+              "type": "image",
+              "id": "e96140d970674a91b11b",
+              "src": "/images/klaveness-digital/button-up.png",
+              "alt": "",
+              "width": 256,
+              "height": 256,
+              "href": "#elements",
+              "fluid": true,
+              "fit": "fit"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

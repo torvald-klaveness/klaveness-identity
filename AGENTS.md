@@ -19,11 +19,12 @@ lives and how the layout data works.
 
 For now the site has one branch, deployed to a Vercel preview:
 
-| Branch    | Deployed to                      | Updated by                     |
-| --------- | -------------------------------- | ------------------------------ |
-| `staging` | Vercel preview (every push)      | Anyone on the team, every push |
+| Branch    | Deployed to                                      | Updated by                     |
+| --------- | ------------------------------------------------ | ------------------------------ |
+| `staging` | https://klaveness-identity.vercel.app (preview)  | Anyone on the team, every push |
 
-- Do all work on `staging` (or on a branch with a pull request into `staging`). At the start of
+- Do all work on `staging` (or on a branch with a pull request into `staging`). Every push to
+  `staging` updates klaveness-identity.vercel.app within a couple of minutes. At the start of
   every session, before any change, switch to `staging` and run `git pull`, so other people's
   work is included. If the pull reports a conflict, stop and explain it in plain words rather
   than resolving it silently.

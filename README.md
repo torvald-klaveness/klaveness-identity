@@ -94,9 +94,9 @@ up a last-minute change before the switch); after the switch, edit the content f
 
 ## Deployment
 
-| Branch    | Deployed to                                  |
-| --------- | -------------------------------------------- |
-| `staging` | Vercel preview of the new site (every push)  |
+| Branch    | Deployed to                                                               |
+| --------- | ------------------------------------------------------------------------- |
+| `staging` | https://klaveness-identity.vercel.app (Yann's Vercel account, every push) |
 
 The live site (a `main` branch deployed from Klaveness's own Vercel account, as for
 klaveness.com) is not set up yet.

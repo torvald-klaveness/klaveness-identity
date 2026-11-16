@@ -17,24 +17,21 @@ lives and how the layout data works.
 
 # Branches and publishing
 
-For now the site has one branch, deployed to a Vercel preview:
+The site has one branch and no test site:
 
-| Branch    | Deployed to                                      | Updated by                     |
-| --------- | ------------------------------------------------ | ------------------------------ |
-| `staging` | https://klaveness-identity.vercel.app (preview)  | Anyone on the team, every push |
+| Branch | Deployed to                                                  | Updated by                     |
+| ------ | ------------------------------------------------------------ | ------------------------------ |
+| `main` | https://www.klavenessidentity.com (Klaveness's Vercel, live) | Anyone on the team, every push |
 
-- Do all work on `staging` (or on a branch with a pull request into `staging`). Every push to
-  `staging` updates klaveness-identity.vercel.app within a couple of minutes. At the start of
-  every session, before any change, switch to `staging` and run `git pull`, so other people's
-  work is included. If the pull reports a conflict, stop and explain it in plain words rather
-  than resolving it silently.
-- Some editors are not developers. When someone asks to "send it to the test site", run
-  `pnpm build` to check nothing is broken, then commit on `staging` with a short message saying
-  what changed, and push. Explain results in plain words, without git terms.
-- The live site (a `main` branch deployed from Klaveness's own Vercel account to
-  klavenessidentity.com, as for klaveness.com) is not set up yet. Until it is, there is nothing
-  to "publish" beyond `staging`; say so if someone asks.
-- Preview locally with `pnpm dev`.
+- Every push to `main` goes live within a couple of minutes. There is no staging step, so check
+  changes locally with `pnpm dev` before pushing.
+- At the start of every session, before any change, switch to `main` and run `git pull`, so
+  other people's work is included. If the pull reports a conflict, stop and explain it in plain
+  words rather than resolving it silently.
+- Some editors are not developers. When someone asks to "publish" or "put it live", run
+  `pnpm build` to check nothing is broken, then commit on `main` with a short message saying
+  what changed, and push. Explain results in plain words, without git terms. If someone asks for
+  a test site, explain that this site has none and offer a local preview instead.
 
 # Content rules
 

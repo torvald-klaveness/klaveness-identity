@@ -3,7 +3,7 @@ import type { NextConfig } from "next";
 import downloads from "./src/content/downloads.json";
 
 // Indexing is allowed only on the live site (production on klavenessidentity.com),
-// never on the vercel.app staging address.
+// never on vercel.app addresses.
 const productionUrl = process.env.VERCEL_PROJECT_PRODUCTION_URL ?? "";
 const isIndexable =
   process.env.VERCEL_ENV === "production" && productionUrl.endsWith("klavenessidentity.com");

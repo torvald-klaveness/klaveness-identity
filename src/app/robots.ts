@@ -2,7 +2,7 @@ import type { MetadataRoute } from "next";
 
 import { site } from "@/content/site";
 
-// Search engines may index only the live site, not the vercel.app staging address.
+// Search engines may index only the live site, not on vercel.app addresses.
 const productionUrl = process.env.VERCEL_PROJECT_PRODUCTION_URL ?? "";
 const isIndexable =
   process.env.VERCEL_ENV === "production" && productionUrl.endsWith("klavenessidentity.com");

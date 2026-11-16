@@ -94,12 +94,12 @@ up a last-minute change before the switch); after the switch, edit the content f
 
 ## Deployment
 
-| Branch    | Deployed to                                                               |
-| --------- | ------------------------------------------------------------------------- |
-| `staging` | https://klaveness-identity.vercel.app (Yann's Vercel account, every push) |
+One branch, `main`, deployed from Klaveness's own Vercel account to
+https://www.klavenessidentity.com on every push. There is no staging site; preview changes
+locally with `pnpm dev`.
 
-The live site (a `main` branch deployed from Klaveness's own Vercel account, as for
-klaveness.com) is not set up yet.
+After the domain is added in Vercel, redeploy once: indexing is switched on only when the
+project's production domain is klavenessidentity.com.
 
 Search engines are kept out of every deployment except production on klavenessidentity.com
 (`X-Robots-Tag: noindex` and a disallow-all `robots.txt`).
